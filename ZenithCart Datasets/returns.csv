@@ -1,0 +1,19 @@
+return_id,order_id,return_date,return_reason
+9001,5059,2025-03-13,Quality Issue
+9002,5079,2025-02-07,Damaged
+9003,5044,2025-03-19,Quality Issue
+9004,5056,2025-02-01,Damaged
+9005,5088,2025-02-24,Damaged
+9006,5075,2025-03-31,Damaged
+9007,5061,2025-03-23,Wrong Item
+9008,5053,2025-03-29,Damaged
+9009,5047,2025-01-08,Damaged
+9010,5040,2025-02-10,Quality Issue
+9011,5041,2025-01-22,Wrong Item
+9012,5032,2025-01-08,Quality Issue
+9013,5070,2025-03-17,Wrong Item
+9014,5028,2025-02-10,Damaged
+9015,5039,2025-01-30,Damaged
+9016,99999,2025-03-20,Invalid Order
+9017,99998,2025-03-22,Invalid Order
+9018,99997,2025-03-25,Invalid Order
