@@ -1,0 +1,16 @@
+department_id,department_name,location,annual_budget
+1,IT,India,45000000
+2,HR,India,12000000
+3,Finance,India,6000000
+4,Marketing,India,22000000
+5,Operations,India,20000000
+6,Legal,India,19000000
+7,Sales,India,13000000
+8,Procurement,India,11000000
+9,Security,India,48000000
+10,Cloud,India,39000000
+11,Data Engineering,India,10000000
+12,Data Science,India,42000000
+13,DevOps,India,32000000
+14,Support,India,7000000
+15,Administration,India,6000000

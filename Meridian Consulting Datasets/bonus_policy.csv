@@ -1,0 +1,8 @@
+policy_id,min_score,max_score,employment_type,min_years_service,salary_upper_limit,bonus_percent
+1,95,100,Permanent,0,70000,25
+2,90,94,Permanent,0,9999999,20
+3,80,89,Permanent,0,9999999,15
+4,70,79,Permanent,0,9999999,10
+5,0,69,Permanent,0,9999999,5
+6,0,100,Contract,0,9999999,0
+7,0,100,Intern,0,9999999,0
