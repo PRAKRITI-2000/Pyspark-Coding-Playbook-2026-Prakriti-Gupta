@@ -1,0 +1,1001 @@
+subscriber_id,msisdn,circle,plan_type,activation_date,status,kyc_status,arpu_band
+SUB00001,9813356886,Rajasthan,Prepaid,2022-08-17,Active,Verified,High
+SUB00002,9883197857,Karnataka,Postpaid,2022-07-29,Active,Verified,Low
+SUB00003,9841227216,North East,Prepaid,2023-03-24,Suspended,Verified,High
+SUB00004,9866306997,Gujarat,Postpaid,2025-01-21,Suspended,Pending,Low
+SUB00005,9866722344,UP West,Postpaid,2022-11-23,Active,Verified,Medium
+SUB00006,9822448136,West Bengal,Prepaid,2022-07-29,Inactive,Pending,High
+SUB00007,9815831819,Odisha,Prepaid,2023-06-26,Inactive,Verified,High
+SUB00008,9894374605,Andhra Pradesh,Postpaid,2023-08-24,Suspended,Verified,High
+SUB00009,9816150444,Maharashtra,Prepaid,2022-05-23,Inactive,Verified,Low
+SUB00010,9861019678,Rajasthan,Postpaid,2022-07-26,Suspended,Pending,Low
+SUB00011,9857683626,Haryana,Postpaid,2024-01-29,Suspended,Verified,High
+SUB00012,9881691040,Gujarat,Prepaid,2022-12-17,Inactive,Pending,Medium
+SUB00013,9839476249,Maharashtra,Postpaid,2025-02-14,Active,Verified,Low
+SUB00014,9863843426,Rajasthan,Prepaid,2023-10-09,Active,Pending,Low
+SUB00015,9863100814,Telangana,Postpaid,2024-10-19,Active,Pending,Low
+SUB00016,9885345555,Jammu & Kashmir,Postpaid,2023-05-21,Suspended,Pending,High
+SUB00017,9858586340,Gujarat,Prepaid,2024-03-28,Suspended,Pending,Low
+SUB00018,9824716857,Kerala,Prepaid,2022-04-07,Suspended,Pending,High
+SUB00019,9861642594,West Bengal,Postpaid,2022-05-11,Suspended,Pending,High
+SUB00020,9825374874,Maharashtra,Postpaid,2022-01-24,Suspended,Pending,Low
+SUB00021,9868353204,Punjab,Postpaid,2023-08-25,Active,Pending,High
+SUB00022,9878139880,Tamil Nadu,Postpaid,2023-01-01,Suspended,Verified,Low
+SUB00023,9831682744,Jammu & Kashmir,Prepaid,2024-02-05,Suspended,Pending,Medium
+SUB00024,9825014631,Madhya Pradesh,Postpaid,2022-02-09,Active,Verified,Low
+SUB00025,9820570592,Karnataka,Postpaid,2025-03-07,Active,Verified,Low
+SUB00026,9883793389,Punjab,Postpaid,2024-08-31,Suspended,Pending,Low
+SUB00027,9836998038,UP East,Postpaid,2025-01-09,Suspended,Pending,Medium
+SUB00028,9870597444,Tamil Nadu,Prepaid,2024-11-25,Active,Verified,Medium
+SUB00029,9888961459,Jammu & Kashmir,Prepaid,2022-02-13,Suspended,Verified,Low
+SUB00030,9894705205,Delhi,Prepaid,2022-05-26,Active,Verified,Medium
+SUB00031,9879008866,Gujarat,Postpaid,2022-05-26,Suspended,Pending,Low
+SUB00032,9827758595,Himachal Pradesh,Postpaid,2025-01-09,Active,Pending,Medium
+SUB00033,9822660194,Tamil Nadu,Postpaid,2023-01-25,Inactive,Pending,Medium
+SUB00034,9817270733,Maharashtra,Prepaid,2024-08-14,Active,Pending,High
+SUB00035,9824665841,Gujarat,Prepaid,2023-11-26,Active,Pending,Low
+SUB00036,9834627347,Rajasthan,Postpaid,2024-05-14,Active,Verified,Medium
+SUB00037,9823141087,Delhi,Prepaid,2025-02-01,Active,Verified,Low
+SUB00038,9875181648,Assam,Prepaid,2024-04-12,Inactive,Verified,Low
+SUB00039,9810289289,West Bengal,Postpaid,2024-02-16,Inactive,Pending,Medium
+SUB00040,9898834863,Assam,Prepaid,2025-02-12,Active,Pending,Low
+SUB00041,9887736262,Jammu & Kashmir,Prepaid,2022-04-30,Suspended,Pending,Low
+SUB00042,9888406989,Assam,Prepaid,2022-04-13,Active,Verified,Low
+SUB00043,9889864260,Karnataka,Prepaid,2022-05-21,Inactive,Verified,High
+SUB00044,9887701200,Andhra Pradesh,Prepaid,2023-05-20,Suspended,Verified,Medium
+SUB00045,9885863473,North East,Postpaid,2025-04-10,Inactive,Verified,High
+SUB00046,9842035886,Rajasthan,Postpaid,2023-10-06,Active,Pending,Medium
+SUB00047,9819736572,Mumbai,Postpaid,2023-10-10,Suspended,Verified,Low
+SUB00048,9838609087,North East,Postpaid,2025-01-06,Active,Pending,Low
+SUB00049,9859597086,UP East,Prepaid,2023-05-16,Inactive,Pending,High
+SUB00050,9811049999,Maharashtra,Postpaid,2024-12-19,Suspended,Verified,Low
+SUB00051,9825492573,Tamil Nadu,Prepaid,2023-06-26,Inactive,Pending,High
+SUB00052,9856020613,Haryana,Postpaid,2023-03-08,Suspended,Pending,Medium
+SUB00053,9822388090,Telangana,Postpaid,2022-04-15,Inactive,Verified,Low
+SUB00054,9827558317,Telangana,Postpaid,2023-11-15,Active,Pending,High
+SUB00055,9885283645,Mumbai,Prepaid,2024-05-25,Active,Verified,High
+SUB00056,9859555330,Himachal Pradesh,Prepaid,2022-03-15,Inactive,Verified,Low
+SUB00057,9858942697,Delhi,Postpaid,2023-09-24,Active,Verified,High
+SUB00058,9857469942,Jammu & Kashmir,Postpaid,2022-07-30,Suspended,Verified,Low
+SUB00059,9833763566,Bihar,Prepaid,2022-11-29,Active,Pending,Medium
+SUB00060,9845810056,Punjab,Prepaid,2023-05-24,Inactive,Verified,Medium
+SUB00061,9836786211,Odisha,Postpaid,2023-04-01,Inactive,Verified,Low
+SUB00062,9898588154,Haryana,Postpaid,2022-02-18,Inactive,Pending,Low
+SUB00063,9857130035,Telangana,Postpaid,2023-07-26,Suspended,Pending,Low
+SUB00064,9845059710,Punjab,Postpaid,2022-08-25,Active,Verified,High
+SUB00065,9856397338,UP West,Postpaid,2024-06-08,Suspended,Verified,Medium
+SUB00066,9835511941,Rajasthan,Prepaid,2025-03-26,Suspended,Pending,Low
+SUB00067,9882269803,Maharashtra,Prepaid,2024-11-30,Inactive,Pending,Low
+SUB00068,9893638503,UP West,Prepaid,2023-11-08,Suspended,Pending,High
+SUB00069,9899508850,Bihar,Postpaid,2023-09-26,Inactive,Pending,High
+SUB00070,9835748341,Bihar,Postpaid,2022-09-18,Suspended,Verified,High
+SUB00071,9850392808,West Bengal,Prepaid,2025-03-11,Inactive,Pending,Low
+SUB00072,9887844239,Andhra Pradesh,Postpaid,2024-05-30,Inactive,Pending,Medium
+SUB00073,9878608612,Assam,Prepaid,2023-03-14,Suspended,Verified,Medium
+SUB00074,9899100953,Telangana,Postpaid,2024-11-21,Active,Verified,High
+SUB00075,9840150759,Haryana,Prepaid,2023-09-28,Active,Verified,Low
+SUB00076,9892043803,Karnataka,Postpaid,2024-08-31,Inactive,Verified,High
+SUB00077,9876354180,West Bengal,Prepaid,2024-02-26,Active,Verified,Low
+SUB00078,9839372360,Punjab,Postpaid,2024-05-20,Active,Verified,Low
+SUB00079,9827896471,Odisha,Postpaid,2024-07-23,Inactive,Pending,High
+SUB00080,9831361812,Assam,Postpaid,2024-07-02,Inactive,Verified,High
+SUB00081,9879967676,Assam,Prepaid,2023-07-22,Inactive,Pending,Low
+SUB00082,9841473195,Rajasthan,Postpaid,2023-08-09,Inactive,Verified,Low
+SUB00083,9841039390,West Bengal,Prepaid,2022-11-05,Suspended,Verified,Low
+SUB00084,9864707061,UP West,Postpaid,2024-04-29,Inactive,Verified,Low
+SUB00085,9862274692,Himachal Pradesh,Prepaid,2024-05-10,Suspended,Pending,Medium
+SUB00086,9857212267,UP East,Postpaid,2022-01-13,Inactive,Verified,Medium
+SUB00087,9846632757,Bihar,Postpaid,2023-03-26,Active,Pending,Medium
+SUB00088,9832151928,Odisha,Prepaid,2024-04-08,Suspended,Verified,Medium
+SUB00089,9898986321,Mumbai,Prepaid,2025-03-01,Suspended,Pending,Low
+SUB00090,9834391257,Delhi,Postpaid,2024-08-03,Inactive,Pending,Low
+SUB00091,9853868501,UP West,Postpaid,2024-07-20,Inactive,Pending,Medium
+SUB00092,9873123515,Mumbai,Prepaid,2022-06-17,Inactive,Verified,High
+SUB00093,9897477029,Delhi,Prepaid,2022-05-21,Active,Verified,Low
+SUB00094,9842016960,Kerala,Postpaid,2022-11-09,Suspended,Verified,High
+SUB00095,9872415804,Rajasthan,Postpaid,2023-03-23,Active,Verified,Low
+SUB00096,9824508768,Himachal Pradesh,Prepaid,2023-09-30,Inactive,Pending,Medium
+SUB00097,9820200074,Himachal Pradesh,Prepaid,2023-02-11,Active,Pending,High
+SUB00098,9885958181,Delhi,Postpaid,2022-09-05,Suspended,Pending,High
+SUB00099,9819255216,North East,Postpaid,2024-01-29,Active,Pending,Medium
+SUB00100,9868186525,Madhya Pradesh,Postpaid,2022-08-05,Suspended,Verified,Medium
+SUB00101,9880027662,Telangana,Postpaid,2022-12-27,Suspended,Pending,Medium
+SUB00102,9889520597,Rajasthan,Postpaid,2024-06-11,Active,Verified,Medium
+SUB00103,9842730796,Odisha,Postpaid,2024-07-12,Inactive,Verified,Medium
+SUB00104,9834406132,Assam,Prepaid,2023-10-28,Inactive,Pending,Medium
+SUB00105,9890014570,Rajasthan,Prepaid,2023-07-27,Suspended,Verified,Low
+SUB00106,9864549859,Assam,Prepaid,2023-05-10,Suspended,Pending,High
+SUB00107,9870152969,Mumbai,Prepaid,2024-10-02,Inactive,Verified,Medium
+SUB00108,9851098277,Maharashtra,Postpaid,2023-05-14,Inactive,Pending,Medium
+SUB00109,9854398056,Madhya Pradesh,Postpaid,2025-02-01,Inactive,Pending,Medium
+SUB00110,9826194158,Haryana,Postpaid,2023-04-18,Active,Verified,Low
+SUB00111,9874988034,Rajasthan,Postpaid,2023-03-20,Active,Verified,Medium
+SUB00112,9858436637,Punjab,Postpaid,2023-04-11,Active,Verified,Medium
+SUB00113,9817318358,Jammu & Kashmir,Postpaid,2022-04-04,Suspended,Verified,High
+SUB00114,9823769080,Mumbai,Postpaid,2024-10-02,Inactive,Pending,Medium
+SUB00115,9834744872,Delhi,Postpaid,2023-11-29,Inactive,Verified,Low
+SUB00116,9876001106,Karnataka,Prepaid,2024-03-31,Active,Verified,High
+SUB00117,9821432787,Gujarat,Prepaid,2023-09-15,Suspended,Pending,High
+SUB00118,9880138498,West Bengal,Postpaid,2023-04-08,Inactive,Pending,High
+SUB00119,9850987442,Himachal Pradesh,Prepaid,2024-05-28,Suspended,Verified,Low
+SUB00120,9845520201,Maharashtra,Prepaid,2023-03-09,Active,Verified,Low
+SUB00121,9820075036,Punjab,Prepaid,2025-02-04,Inactive,Pending,High
+SUB00122,9849092160,Delhi,Prepaid,2024-08-20,Inactive,Pending,High
+SUB00123,9819553585,Maharashtra,Prepaid,2024-07-18,Inactive,Verified,Medium
+SUB00124,9883089925,Gujarat,Prepaid,2022-08-24,Inactive,Verified,Low
+SUB00125,9832269779,UP East,Postpaid,2022-05-03,Inactive,Verified,Medium
+SUB00126,9864023778,Rajasthan,Postpaid,2023-09-15,Inactive,Verified,High
+SUB00127,9867985905,UP West,Postpaid,2022-03-23,Active,Verified,Low
+SUB00128,9888802305,Mumbai,Postpaid,2025-03-24,Suspended,Verified,Low
+SUB00129,9879654147,Telangana,Postpaid,2024-08-21,Inactive,Verified,High
+SUB00130,9895199362,Assam,Prepaid,2024-06-11,Inactive,Pending,Medium
+SUB00131,9853091709,Maharashtra,Prepaid,2023-11-14,Active,Pending,Medium
+SUB00132,9848683937,Maharashtra,Postpaid,2024-10-11,Suspended,Verified,Medium
+SUB00133,9852213778,Rajasthan,Postpaid,2022-06-30,Active,Pending,High
+SUB00134,9898269682,Jammu & Kashmir,Postpaid,2022-01-03,Inactive,Verified,Low
+SUB00135,9858557203,Andhra Pradesh,Postpaid,2024-11-27,Suspended,Pending,Low
+SUB00136,9845843681,Jammu & Kashmir,Prepaid,2023-02-21,Inactive,Pending,High
+SUB00137,9826297533,Mumbai,Prepaid,2024-09-19,Suspended,Verified,Medium
+SUB00138,9811835355,Jammu & Kashmir,Postpaid,2025-02-02,Active,Verified,Low
+SUB00139,9825766039,Telangana,Prepaid,2024-08-03,Inactive,Pending,High
+SUB00140,9865766169,Assam,Postpaid,2023-07-14,Active,Pending,High
+SUB00141,9861484043,Haryana,Prepaid,2022-10-24,Active,Pending,Medium
+SUB00142,9878147397,Rajasthan,Prepaid,2023-11-28,Inactive,Pending,High
+SUB00143,9898575748,Assam,Prepaid,2025-04-02,Inactive,Pending,Medium
+SUB00144,9884077101,Jammu & Kashmir,Postpaid,2023-11-12,Inactive,Pending,Low
+SUB00145,9886745380,West Bengal,Prepaid,2023-05-05,Inactive,Verified,Medium
+SUB00146,9861167978,West Bengal,Prepaid,2024-08-26,Inactive,Verified,Low
+SUB00147,9889212676,UP West,Prepaid,2024-10-25,Inactive,Verified,High
+SUB00148,9812059919,Kerala,Postpaid,2024-07-24,Suspended,Verified,Low
+SUB00149,9845570755,UP West,Postpaid,2024-08-19,Suspended,Verified,Medium
+SUB00150,9861003997,UP West,Postpaid,2024-12-28,Suspended,Verified,High
+SUB00151,9841510328,Telangana,Postpaid,2022-05-21,Active,Verified,Medium
+SUB00152,9895060193,Tamil Nadu,Postpaid,2022-07-21,Active,Pending,Low
+SUB00153,9853536830,Delhi,Postpaid,2022-04-05,Inactive,Pending,Medium
+SUB00154,9842775624,North East,Postpaid,2022-10-26,Suspended,Verified,Low
+SUB00155,9820598952,Andhra Pradesh,Postpaid,2022-12-25,Suspended,Verified,Medium
+SUB00156,9829208935,Gujarat,Postpaid,2025-04-09,Suspended,Pending,Medium
+SUB00157,9899501846,Mumbai,Postpaid,2023-06-07,Inactive,Verified,Low
+SUB00158,9856381032,Himachal Pradesh,Postpaid,2024-06-23,Suspended,Pending,High
+SUB00159,9871315464,UP East,Prepaid,2023-05-28,Inactive,Pending,Low
+SUB00160,9861185849,Himachal Pradesh,Postpaid,2023-05-01,Suspended,Pending,High
+SUB00161,9812944682,Maharashtra,Postpaid,2023-08-28,Inactive,Verified,High
+SUB00162,9891390501,Assam,Postpaid,2022-04-11,Active,Pending,Low
+SUB00163,9893334601,Rajasthan,Prepaid,2023-01-25,Suspended,Verified,High
+SUB00164,9851464269,Odisha,Prepaid,2022-03-22,Suspended,Pending,High
+SUB00165,9822097496,UP East,Postpaid,2022-09-27,Suspended,Pending,Low
+SUB00166,9827738187,Jammu & Kashmir,Postpaid,2023-02-16,Suspended,Pending,Low
+SUB00167,9874672520,UP East,Postpaid,2023-06-11,Active,Pending,Low
+SUB00168,9840281491,Maharashtra,Postpaid,2022-10-16,Suspended,Pending,Low
+SUB00169,9811868130,Rajasthan,Prepaid,2024-03-19,Inactive,Pending,High
+SUB00170,9888458327,West Bengal,Postpaid,2023-06-21,Active,Verified,Medium
+SUB00171,9893154172,Jammu & Kashmir,Postpaid,2022-02-21,Suspended,Verified,High
+SUB00172,9895282470,Odisha,Postpaid,2022-05-10,Suspended,Pending,Low
+SUB00173,9816086345,Delhi,Postpaid,2022-10-14,Inactive,Verified,Low
+SUB00174,9882148284,Kerala,Postpaid,2023-04-26,Inactive,Pending,High
+SUB00175,9866254240,Himachal Pradesh,Prepaid,2025-01-11,Inactive,Verified,Medium
+SUB00176,9847546086,Delhi,Postpaid,2024-04-15,Active,Pending,Medium
+SUB00177,9858678896,Tamil Nadu,Postpaid,2023-04-29,Suspended,Pending,Low
+SUB00178,9847028180,Haryana,Prepaid,2024-03-26,Inactive,Verified,High
+SUB00179,9896128115,Telangana,Prepaid,2023-03-11,Active,Pending,Low
+SUB00180,9885776373,Haryana,Prepaid,2022-09-15,Suspended,Verified,High
+SUB00181,9841272553,UP West,Prepaid,2023-03-19,Suspended,Verified,Medium
+SUB00182,9827447248,Jammu & Kashmir,Postpaid,2022-10-24,Active,Verified,High
+SUB00183,9827690330,Mumbai,Postpaid,2022-02-22,Active,Pending,Low
+SUB00184,9845617024,Delhi,Prepaid,2022-12-23,Suspended,Pending,High
+SUB00185,9818530615,Assam,Postpaid,2022-08-21,Inactive,Verified,Medium
+SUB00186,9839735904,Andhra Pradesh,Prepaid,2024-10-28,Suspended,Pending,Medium
+SUB00187,9818163847,Assam,Postpaid,2022-03-05,Inactive,Verified,Medium
+SUB00188,9819863756,Karnataka,Postpaid,2024-06-27,Suspended,Verified,Low
+SUB00189,9846912022,Andhra Pradesh,Postpaid,2022-09-16,Inactive,Pending,Medium
+SUB00190,9891259008,Bihar,Prepaid,2024-11-01,Suspended,Verified,High
+SUB00191,9838859907,Bihar,Postpaid,2025-02-03,Active,Pending,Medium
+SUB00192,9863516659,Bihar,Prepaid,2024-07-17,Inactive,Pending,Medium
+SUB00193,9860237832,Kerala,Postpaid,2023-06-07,Active,Verified,Low
+SUB00194,9867965485,Tamil Nadu,Postpaid,2022-07-10,Active,Verified,High
+SUB00195,9885387867,UP West,Prepaid,2025-02-24,Inactive,Pending,High
+SUB00196,9816904975,UP East,Postpaid,2024-05-16,Inactive,Verified,High
+SUB00197,9838553319,Kerala,Postpaid,2024-11-05,Active,Verified,Medium
+SUB00198,9859333209,Tamil Nadu,Postpaid,2025-02-13,Suspended,Verified,Medium
+SUB00199,9893446356,Andhra Pradesh,Prepaid,2025-02-22,Suspended,Pending,Low
+SUB00200,9846677730,UP East,Postpaid,2023-01-05,Inactive,Verified,Low
+SUB00201,9886010330,Maharashtra,Postpaid,2022-10-21,Active,Verified,High
+SUB00202,9822315507,North East,Prepaid,2022-03-04,Inactive,Pending,Medium
+SUB00203,9831127115,Madhya Pradesh,Postpaid,2023-11-30,Suspended,Pending,High
+SUB00204,9817061037,Kerala,Prepaid,2022-06-23,Suspended,Verified,High
+SUB00205,9846521025,Odisha,Postpaid,2022-06-17,Inactive,Pending,Medium
+SUB00206,9838933176,North East,Prepaid,2023-07-14,Inactive,Pending,Low
+SUB00207,9889609131,Assam,Postpaid,2023-08-04,Active,Verified,Medium
+SUB00208,9811031743,Haryana,Postpaid,2022-04-23,Active,Verified,Medium
+SUB00209,9854039837,Tamil Nadu,Prepaid,2023-08-16,Inactive,Pending,Low
+SUB00210,9861030579,Jammu & Kashmir,Prepaid,2022-09-22,Suspended,Pending,Low
+SUB00211,9815677713,Bihar,Prepaid,2024-03-24,Inactive,Verified,Medium
+SUB00212,9867617561,Himachal Pradesh,Postpaid,2025-03-25,Suspended,Pending,Medium
+SUB00213,9864362516,Mumbai,Postpaid,2022-08-24,Active,Pending,High
+SUB00214,9821828592,Bihar,Prepaid,2024-01-12,Active,Pending,High
+SUB00215,9880325062,Karnataka,Postpaid,2024-03-31,Inactive,Pending,Low
+SUB00216,9832566390,Karnataka,Prepaid,2023-11-14,Suspended,Verified,Medium
+SUB00217,9896629889,Kerala,Prepaid,2023-12-21,Active,Verified,Medium
+SUB00218,9833286644,Andhra Pradesh,Prepaid,2023-02-09,Suspended,Verified,Low
+SUB00219,9872270726,Himachal Pradesh,Postpaid,2024-10-08,Suspended,Pending,High
+SUB00220,9830261159,Odisha,Prepaid,2023-10-10,Inactive,Pending,High
+SUB00221,9846866075,Himachal Pradesh,Prepaid,2023-09-13,Inactive,Verified,Medium
+SUB00222,9870654852,Delhi,Prepaid,2024-08-03,Inactive,Pending,Low
+SUB00223,9892545028,Andhra Pradesh,Postpaid,2022-07-04,Inactive,Verified,Medium
+SUB00224,9897488142,Haryana,Postpaid,2025-03-16,Suspended,Pending,High
+SUB00225,9818304547,Odisha,Prepaid,2022-11-05,Inactive,Verified,High
+SUB00226,9815253567,Gujarat,Postpaid,2022-12-20,Inactive,Verified,Medium
+SUB00227,9847969333,West Bengal,Postpaid,2024-02-03,Inactive,Verified,High
+SUB00228,9818846539,UP West,Prepaid,2023-11-17,Suspended,Pending,Medium
+SUB00229,9898122539,Andhra Pradesh,Prepaid,2023-06-01,Inactive,Verified,High
+SUB00230,9856952151,UP East,Postpaid,2022-10-17,Active,Verified,Medium
+SUB00231,9860557040,Telangana,Postpaid,2025-02-18,Active,Verified,High
+SUB00232,9878248169,Madhya Pradesh,Prepaid,2024-05-17,Inactive,Pending,Low
+SUB00233,9855866538,Assam,Prepaid,2023-03-15,Active,Verified,Low
+SUB00234,9849700543,Tamil Nadu,Prepaid,2022-06-08,Suspended,Pending,High
+SUB00235,9890161060,West Bengal,Prepaid,2022-09-26,Active,Verified,High
+SUB00236,9868743530,Delhi,Postpaid,2022-12-06,Inactive,Verified,Medium
+SUB00237,9870254091,Gujarat,Prepaid,2023-08-07,Inactive,Pending,Low
+SUB00238,9886560394,Odisha,Postpaid,2024-01-24,Inactive,Pending,High
+SUB00239,9866191704,Punjab,Prepaid,2024-12-16,Suspended,Verified,Medium
+SUB00240,9896057593,Assam,Postpaid,2022-04-17,Suspended,Verified,High
+SUB00241,9826733967,UP East,Prepaid,2024-11-22,Active,Pending,Medium
+SUB00242,9829776801,Bihar,Prepaid,2024-11-17,Active,Pending,Medium
+SUB00243,9865686520,Delhi,Postpaid,2022-02-24,Suspended,Pending,Low
+SUB00244,9820952896,Madhya Pradesh,Prepaid,2024-03-01,Active,Pending,Low
+SUB00245,9829602406,Kerala,Prepaid,2023-11-18,Inactive,Pending,High
+SUB00246,9872962895,Odisha,Prepaid,2022-10-12,Active,Verified,Medium
+SUB00247,9830068183,Jammu & Kashmir,Postpaid,2023-03-18,Active,Pending,Low
+SUB00248,9826354208,Delhi,Prepaid,2023-09-09,Inactive,Pending,Low
+SUB00249,9877085942,Andhra Pradesh,Prepaid,2022-08-16,Suspended,Verified,High
+SUB00250,9849093864,Bihar,Prepaid,2022-10-22,Suspended,Pending,Low
+SUB00251,9865910756,Punjab,Prepaid,2025-03-14,Suspended,Pending,Low
+SUB00252,9883025444,North East,Prepaid,2024-12-13,Inactive,Pending,Low
+SUB00253,9860103798,Rajasthan,Prepaid,2024-03-03,Inactive,Verified,Medium
+SUB00254,9898195059,Telangana,Prepaid,2023-05-09,Suspended,Pending,Low
+SUB00255,9857284777,Jammu & Kashmir,Postpaid,2022-04-01,Suspended,Verified,High
+SUB00256,9874227366,Telangana,Prepaid,2024-08-09,Active,Verified,High
+SUB00257,9814963880,UP East,Prepaid,2024-07-26,Active,Verified,Low
+SUB00258,9851617680,North East,Postpaid,2023-10-09,Suspended,Pending,Medium
+SUB00259,9896825515,Haryana,Postpaid,2022-03-16,Inactive,Verified,High
+SUB00260,9846670512,Tamil Nadu,Postpaid,2023-11-11,Inactive,Pending,High
+SUB00261,9861894582,UP West,Prepaid,2024-06-19,Inactive,Pending,Medium
+SUB00262,9845798645,Karnataka,Postpaid,2024-11-29,Active,Pending,High
+SUB00263,9883212334,UP East,Postpaid,2023-01-05,Active,Verified,Medium
+SUB00264,9851137177,Odisha,Postpaid,2023-08-29,Active,Pending,Medium
+SUB00265,9815684813,Madhya Pradesh,Postpaid,2024-07-04,Inactive,Verified,Low
+SUB00266,9858762794,North East,Prepaid,2024-04-11,Active,Verified,High
+SUB00267,9814670638,Kerala,Prepaid,2024-06-16,Active,Pending,Medium
+SUB00268,9886134287,Delhi,Prepaid,2024-02-24,Suspended,Pending,Medium
+SUB00269,9869584522,Karnataka,Prepaid,2024-02-01,Suspended,Pending,Medium
+SUB00270,9897182566,Rajasthan,Prepaid,2023-10-06,Active,Verified,High
+SUB00271,9876980546,North East,Postpaid,2023-01-17,Suspended,Verified,Medium
+SUB00272,9869897763,Haryana,Postpaid,2023-06-18,Suspended,Pending,Low
+SUB00273,9828217159,Karnataka,Postpaid,2022-09-09,Active,Pending,Low
+SUB00274,9899635939,Madhya Pradesh,Prepaid,2023-10-17,Suspended,Pending,Medium
+SUB00275,9895590648,Punjab,Postpaid,2022-11-19,Suspended,Verified,Low
+SUB00276,9828639738,Gujarat,Postpaid,2023-02-16,Active,Pending,High
+SUB00277,9859514418,Odisha,Prepaid,2025-03-18,Suspended,Verified,Low
+SUB00278,9863440127,Assam,Postpaid,2023-09-26,Inactive,Verified,Low
+SUB00279,9896213226,Karnataka,Postpaid,2023-10-12,Inactive,Pending,Low
+SUB00280,9895871687,Himachal Pradesh,Prepaid,2025-02-03,Active,Pending,High
+SUB00281,9826664623,North East,Prepaid,2022-04-24,Inactive,Verified,Low
+SUB00282,9840262109,Madhya Pradesh,Postpaid,2023-10-23,Active,Pending,Low
+SUB00283,9846836194,Kerala,Postpaid,2025-02-02,Suspended,Verified,High
+SUB00284,9889431184,Himachal Pradesh,Prepaid,2022-12-12,Active,Pending,High
+SUB00285,9813808225,Karnataka,Prepaid,2022-03-26,Suspended,Pending,High
+SUB00286,9886790955,Bihar,Prepaid,2023-03-08,Inactive,Pending,High
+SUB00287,9874819756,Gujarat,Postpaid,2023-09-11,Inactive,Pending,Low
+SUB00288,9831217198,Odisha,Postpaid,2022-05-03,Inactive,Pending,Low
+SUB00289,9891424562,Kerala,Postpaid,2023-11-28,Suspended,Pending,High
+SUB00290,9863514837,Kerala,Postpaid,2023-12-09,Suspended,Verified,Medium
+SUB00291,9872608888,Tamil Nadu,Postpaid,2023-05-11,Inactive,Verified,Low
+SUB00292,9816792127,UP East,Postpaid,2022-07-18,Suspended,Pending,Low
+SUB00293,9853947691,Himachal Pradesh,Postpaid,2022-11-24,Active,Verified,Medium
+SUB00294,9872654864,Assam,Postpaid,2024-11-20,Inactive,Verified,Low
+SUB00295,9877839607,Odisha,Prepaid,2024-03-16,Active,Pending,Low
+SUB00296,9847763008,Assam,Postpaid,2022-04-14,Inactive,Verified,Low
+SUB00297,9827976443,Rajasthan,Postpaid,2024-06-01,Inactive,Pending,Low
+SUB00298,9816866268,Himachal Pradesh,Prepaid,2024-03-31,Inactive,Pending,Low
+SUB00299,9877680031,Odisha,Postpaid,2024-03-02,Suspended,Verified,Low
+SUB00300,9862868861,Madhya Pradesh,Postpaid,2022-07-18,Suspended,Pending,Low
+SUB00301,9890861208,North East,Postpaid,2023-02-12,Suspended,Verified,Low
+SUB00302,9828392710,UP West,Postpaid,2022-03-21,Suspended,Pending,Low
+SUB00303,9828761086,UP West,Postpaid,2024-11-21,Active,Pending,High
+SUB00304,9889688374,UP West,Postpaid,2023-09-05,Suspended,Pending,Medium
+SUB00305,9859440148,UP West,Prepaid,2022-02-04,Inactive,Pending,High
+SUB00306,9890115852,Assam,Postpaid,2022-02-24,Suspended,Verified,High
+SUB00307,9888319168,Assam,Prepaid,2022-04-16,Suspended,Pending,Low
+SUB00308,9814237322,Himachal Pradesh,Prepaid,2023-05-12,Active,Verified,Medium
+SUB00309,9866207740,Kerala,Postpaid,2023-10-05,Suspended,Verified,Medium
+SUB00310,9892071195,Assam,Prepaid,2024-10-24,Suspended,Verified,High
+SUB00311,9885280948,UP West,Postpaid,2023-03-01,Suspended,Pending,Medium
+SUB00312,9871694994,Jammu & Kashmir,Postpaid,2022-12-21,Suspended,Pending,High
+SUB00313,9891883092,Assam,Prepaid,2023-06-26,Active,Pending,High
+SUB00314,9840181142,UP East,Postpaid,2023-09-04,Suspended,Verified,High
+SUB00315,9852552488,Assam,Postpaid,2024-09-28,Suspended,Pending,Medium
+SUB00316,9886970753,Maharashtra,Postpaid,2022-09-07,Inactive,Pending,Low
+SUB00317,9815646068,UP East,Prepaid,2023-08-18,Inactive,Pending,High
+SUB00318,9874300930,Haryana,Prepaid,2023-06-10,Suspended,Pending,High
+SUB00319,9828424464,Tamil Nadu,Prepaid,2023-07-11,Active,Verified,High
+SUB00320,9840289135,Telangana,Prepaid,2024-12-23,Active,Verified,Medium
+SUB00321,9873404979,Tamil Nadu,Prepaid,2023-11-08,Active,Verified,Medium
+SUB00322,9874082055,Telangana,Prepaid,2024-09-01,Inactive,Pending,Medium
+SUB00323,9822007214,Telangana,Prepaid,2022-05-02,Suspended,Verified,Low
+SUB00324,9833593960,Delhi,Postpaid,2024-05-05,Inactive,Verified,High
+SUB00325,9815028625,Mumbai,Postpaid,2023-08-16,Suspended,Verified,Medium
+SUB00326,9870981700,Telangana,Postpaid,2023-08-06,Active,Pending,Medium
+SUB00327,9825119192,UP West,Prepaid,2023-01-30,Suspended,Pending,High
+SUB00328,9834991216,Mumbai,Postpaid,2023-06-11,Inactive,Verified,Low
+SUB00329,9867405358,North East,Postpaid,2024-04-10,Active,Pending,High
+SUB00330,9834800912,Kerala,Postpaid,2022-07-15,Inactive,Verified,Low
+SUB00331,9861482483,Gujarat,Postpaid,2023-06-19,Inactive,Pending,Medium
+SUB00332,9886890296,Mumbai,Postpaid,2025-04-07,Suspended,Pending,High
+SUB00333,9818338186,Maharashtra,Prepaid,2023-04-29,Inactive,Pending,Low
+SUB00334,9877447155,UP East,Prepaid,2024-04-10,Suspended,Pending,Medium
+SUB00335,9839410942,Kerala,Postpaid,2023-03-29,Active,Pending,High
+SUB00336,9865813853,Jammu & Kashmir,Postpaid,2024-02-05,Suspended,Verified,Low
+SUB00337,9880532309,Odisha,Postpaid,2022-06-17,Active,Verified,Low
+SUB00338,9877845324,Haryana,Prepaid,2025-01-26,Active,Pending,High
+SUB00339,9825601471,Maharashtra,Prepaid,2024-06-23,Suspended,Pending,Low
+SUB00340,9869791674,Delhi,Postpaid,2024-11-11,Active,Pending,Medium
+SUB00341,9817749299,Jammu & Kashmir,Postpaid,2025-02-28,Suspended,Pending,High
+SUB00342,9863143336,Rajasthan,Prepaid,2022-02-14,Suspended,Verified,High
+SUB00343,9816078694,Bihar,Postpaid,2022-05-30,Suspended,Verified,High
+SUB00344,9819263592,Assam,Prepaid,2022-05-04,Inactive,Pending,Low
+SUB00345,9896104027,Telangana,Postpaid,2022-10-05,Inactive,Pending,Medium
+SUB00346,9860418290,Karnataka,Prepaid,2024-02-13,Suspended,Pending,Low
+SUB00347,9882109613,West Bengal,Prepaid,2023-01-01,Suspended,Verified,Low
+SUB00348,9850045602,Odisha,Postpaid,2022-02-16,Suspended,Pending,Low
+SUB00349,9871824078,Madhya Pradesh,Prepaid,2023-05-22,Inactive,Verified,High
+SUB00350,9814324134,Maharashtra,Postpaid,2022-08-20,Suspended,Verified,Low
+SUB00351,9819031632,Tamil Nadu,Prepaid,2023-02-27,Inactive,Verified,Low
+SUB00352,9863991141,Odisha,Prepaid,2022-04-01,Suspended,Verified,Low
+SUB00353,9877631755,UP East,Prepaid,2022-10-14,Suspended,Pending,High
+SUB00354,9841796721,UP East,Prepaid,2023-10-19,Suspended,Verified,Medium
+SUB00355,9846930534,Delhi,Prepaid,2023-09-08,Suspended,Pending,High
+SUB00356,9816292676,Madhya Pradesh,Postpaid,2024-10-12,Suspended,Pending,High
+SUB00357,9864795619,Kerala,Postpaid,2024-05-02,Inactive,Verified,High
+SUB00358,9842342202,Gujarat,Postpaid,2024-08-27,Suspended,Verified,Medium
+SUB00359,9885482164,Bihar,Postpaid,2022-04-29,Suspended,Verified,Medium
+SUB00360,9844224936,Haryana,Postpaid,2023-05-13,Suspended,Verified,Medium
+SUB00361,9822410307,Jammu & Kashmir,Prepaid,2024-01-30,Active,Pending,Medium
+SUB00362,9819768947,Haryana,Prepaid,2022-03-22,Inactive,Verified,Medium
+SUB00363,9812058055,Haryana,Prepaid,2023-09-13,Suspended,Verified,High
+SUB00364,9842560305,Andhra Pradesh,Prepaid,2024-09-07,Inactive,Verified,High
+SUB00365,9847991562,West Bengal,Postpaid,2023-10-21,Suspended,Pending,Medium
+SUB00366,9858270683,North East,Postpaid,2023-06-20,Inactive,Verified,High
+SUB00367,9852980983,Haryana,Postpaid,2024-08-19,Inactive,Pending,Low
+SUB00368,9839698906,Kerala,Prepaid,2025-02-26,Inactive,Pending,Medium
+SUB00369,9836332415,UP West,Prepaid,2022-11-09,Inactive,Verified,Medium
+SUB00370,9897859993,Maharashtra,Postpaid,2025-02-01,Inactive,Pending,High
+SUB00371,9871851421,Punjab,Postpaid,2024-10-01,Active,Verified,High
+SUB00372,9875540707,Punjab,Prepaid,2025-01-24,Suspended,Verified,Low
+SUB00373,9810856822,Bihar,Prepaid,2022-04-10,Suspended,Verified,Low
+SUB00374,9811226946,Haryana,Postpaid,2022-11-06,Inactive,Verified,High
+SUB00375,9898487646,Assam,Prepaid,2024-09-16,Active,Pending,Low
+SUB00376,9881057233,Rajasthan,Postpaid,2022-02-04,Active,Pending,Low
+SUB00377,9822927031,North East,Prepaid,2022-08-08,Active,Verified,High
+SUB00378,9843878996,Madhya Pradesh,Postpaid,2024-12-14,Inactive,Verified,Medium
+SUB00379,9871605634,Himachal Pradesh,Prepaid,2024-04-11,Suspended,Verified,Medium
+SUB00380,9897742922,Telangana,Prepaid,2022-06-15,Active,Pending,Medium
+SUB00381,9884182331,Assam,Prepaid,2024-02-12,Suspended,Verified,High
+SUB00382,9821097943,Assam,Postpaid,2022-12-17,Suspended,Pending,High
+SUB00383,9880888325,Delhi,Prepaid,2022-07-15,Active,Pending,Medium
+SUB00384,9819978827,Maharashtra,Postpaid,2022-04-06,Suspended,Verified,Low
+SUB00385,9812101593,Haryana,Prepaid,2023-10-07,Suspended,Pending,Low
+SUB00386,9831803703,Himachal Pradesh,Prepaid,2023-09-05,Suspended,Pending,High
+SUB00387,9854524025,West Bengal,Prepaid,2025-01-12,Suspended,Verified,High
+SUB00388,9817207013,Tamil Nadu,Postpaid,2023-12-10,Active,Verified,Medium
+SUB00389,9853805532,Mumbai,Postpaid,2024-03-23,Inactive,Pending,Low
+SUB00390,9884227466,West Bengal,Postpaid,2023-12-30,Active,Pending,Low
+SUB00391,9843077929,Karnataka,Prepaid,2023-08-28,Inactive,Verified,Medium
+SUB00392,9862294176,UP West,Postpaid,2022-11-12,Active,Verified,Low
+SUB00393,9869691437,Madhya Pradesh,Postpaid,2023-09-24,Active,Verified,Low
+SUB00394,9867845091,Odisha,Postpaid,2023-01-19,Active,Verified,Low
+SUB00395,9884386123,Karnataka,Postpaid,2023-12-26,Inactive,Verified,Medium
+SUB00396,9862049575,Karnataka,Prepaid,2024-04-27,Suspended,Verified,High
+SUB00397,9832750139,Kerala,Postpaid,2024-02-19,Inactive,Pending,Medium
+SUB00398,9818491573,Punjab,Postpaid,2022-10-26,Inactive,Pending,Medium
+SUB00399,9820324210,Madhya Pradesh,Postpaid,2024-09-18,Active,Pending,High
+SUB00400,9871453148,Tamil Nadu,Prepaid,2023-02-05,Inactive,Verified,Medium
+SUB00401,9893240786,West Bengal,Postpaid,2023-11-12,Inactive,Pending,Medium
+SUB00402,9850323741,UP West,Prepaid,2022-10-06,Inactive,Pending,Low
+SUB00403,9852833932,UP East,Postpaid,2024-03-26,Suspended,Verified,Medium
+SUB00404,9847621248,West Bengal,Postpaid,2024-02-10,Active,Verified,High
+SUB00405,9834149421,Maharashtra,Prepaid,2025-01-22,Suspended,Pending,High
+SUB00406,9868848427,UP East,Prepaid,2023-03-06,Inactive,Pending,Low
+SUB00407,9842483531,Rajasthan,Prepaid,2023-09-13,Suspended,Pending,Medium
+SUB00408,9870272714,Andhra Pradesh,Postpaid,2022-06-01,Suspended,Pending,High
+SUB00409,9866143368,Jammu & Kashmir,Prepaid,2024-11-03,Inactive,Verified,Low
+SUB00410,9898261798,Maharashtra,Postpaid,2023-05-24,Active,Verified,High
+SUB00411,9854506155,Bihar,Prepaid,2024-03-29,Active,Verified,Medium
+SUB00412,9878541804,North East,Prepaid,2023-03-31,Inactive,Pending,Medium
+SUB00413,9888999206,North East,Prepaid,2024-08-06,Inactive,Verified,Medium
+SUB00414,9849652241,Bihar,Prepaid,2022-08-03,Active,Verified,Medium
+SUB00415,9856045630,Odisha,Prepaid,2023-10-01,Suspended,Pending,Medium
+SUB00416,9823102741,Odisha,Postpaid,2024-09-02,Inactive,Verified,Medium
+SUB00417,9825446483,Mumbai,Postpaid,2022-04-02,Suspended,Verified,High
+SUB00418,9842737441,North East,Prepaid,2022-12-03,Suspended,Verified,Medium
+SUB00419,9867226329,Odisha,Prepaid,2025-02-20,Inactive,Verified,Low
+SUB00420,9863094168,Mumbai,Prepaid,2024-06-04,Inactive,Pending,Medium
+SUB00421,9838829445,Haryana,Postpaid,2022-01-10,Suspended,Verified,High
+SUB00422,9882060023,Punjab,Postpaid,2022-07-28,Inactive,Verified,Medium
+SUB00423,9845212476,Maharashtra,Postpaid,2022-08-22,Suspended,Pending,High
+SUB00424,9892048427,West Bengal,Prepaid,2024-03-06,Inactive,Pending,Medium
+SUB00425,9849922369,Andhra Pradesh,Prepaid,2022-12-20,Suspended,Verified,Medium
+SUB00426,9842020689,UP East,Prepaid,2022-08-30,Active,Pending,High
+SUB00427,9878561753,West Bengal,Postpaid,2022-10-17,Suspended,Verified,High
+SUB00428,9866779304,Punjab,Postpaid,2024-02-25,Suspended,Verified,High
+SUB00429,9875718640,UP East,Prepaid,2022-12-08,Active,Pending,Medium
+SUB00430,9858189421,Mumbai,Postpaid,2022-04-20,Active,Verified,Medium
+SUB00431,9877838742,Telangana,Postpaid,2025-02-24,Inactive,Pending,Medium
+SUB00432,9875592138,Punjab,Prepaid,2024-06-28,Suspended,Verified,Low
+SUB00433,9814388260,Rajasthan,Prepaid,2023-08-22,Suspended,Pending,Low
+SUB00434,9885920319,Assam,Prepaid,2024-07-25,Suspended,Verified,Medium
+SUB00435,9859239353,Jammu & Kashmir,Prepaid,2025-01-17,Suspended,Pending,High
+SUB00436,9867063296,Tamil Nadu,Prepaid,2023-03-24,Inactive,Verified,Medium
+SUB00437,9856785209,Karnataka,Postpaid,2023-06-23,Active,Verified,Low
+SUB00438,9891907952,Telangana,Postpaid,2023-12-20,Active,Verified,Low
+SUB00439,9817966873,Himachal Pradesh,Postpaid,2023-02-28,Suspended,Pending,High
+SUB00440,9832599227,UP West,Postpaid,2025-01-08,Inactive,Pending,High
+SUB00441,9828198434,Bihar,Prepaid,2022-07-15,Inactive,Verified,High
+SUB00442,9843511112,Kerala,Postpaid,2022-09-29,Active,Pending,Medium
+SUB00443,9887500742,Telangana,Postpaid,2022-10-19,Suspended,Pending,Medium
+SUB00444,9820135622,Telangana,Prepaid,2024-07-14,Inactive,Pending,High
+SUB00445,9871028216,Assam,Postpaid,2024-01-26,Suspended,Verified,High
+SUB00446,9871532017,Telangana,Postpaid,2022-07-10,Active,Pending,Low
+SUB00447,9838434222,Assam,Postpaid,2024-05-29,Inactive,Pending,Medium
+SUB00448,9887568940,Kerala,Postpaid,2025-01-25,Inactive,Verified,Low
+SUB00449,9894044392,Odisha,Prepaid,2022-07-23,Active,Verified,Medium
+SUB00450,9810090721,Bihar,Prepaid,2024-07-23,Suspended,Verified,High
+SUB00451,9831337593,Rajasthan,Prepaid,2023-09-11,Suspended,Pending,Medium
+SUB00452,9859908025,Maharashtra,Prepaid,2022-06-18,Active,Pending,High
+SUB00453,9841426254,Bihar,Prepaid,2023-09-18,Suspended,Verified,Low
+SUB00454,9873995913,Karnataka,Prepaid,2023-03-14,Suspended,Verified,High
+SUB00455,9811246473,Mumbai,Postpaid,2024-06-30,Active,Pending,High
+SUB00456,9874115841,Karnataka,Prepaid,2022-09-28,Inactive,Verified,High
+SUB00457,9823851475,UP West,Postpaid,2022-07-29,Inactive,Verified,Medium
+SUB00458,9896110892,Maharashtra,Prepaid,2022-09-30,Active,Verified,High
+SUB00459,9869069144,Madhya Pradesh,Prepaid,2022-12-03,Suspended,Verified,Medium
+SUB00460,9839158087,Karnataka,Prepaid,2024-06-25,Active,Verified,High
+SUB00461,9857182314,Bihar,Postpaid,2024-02-26,Active,Verified,Medium
+SUB00462,9843308414,Jammu & Kashmir,Postpaid,2022-06-22,Suspended,Verified,High
+SUB00463,9837574457,North East,Prepaid,2023-09-10,Suspended,Pending,Medium
+SUB00464,9842123815,Assam,Postpaid,2022-04-22,Active,Verified,Medium
+SUB00465,9880905413,Mumbai,Postpaid,2022-05-26,Inactive,Verified,Medium
+SUB00466,9866487347,Madhya Pradesh,Prepaid,2025-03-10,Inactive,Verified,Low
+SUB00467,9811851322,Rajasthan,Prepaid,2022-05-19,Active,Verified,Medium
+SUB00468,9848451741,Telangana,Postpaid,2024-11-03,Inactive,Pending,Low
+SUB00469,9882162880,Andhra Pradesh,Prepaid,2025-01-03,Inactive,Verified,Medium
+SUB00470,9878626154,Haryana,Prepaid,2022-06-11,Suspended,Pending,Medium
+SUB00471,9851630244,Bihar,Prepaid,2022-05-16,Active,Verified,Low
+SUB00472,9825567455,Odisha,Prepaid,2024-06-08,Inactive,Verified,Low
+SUB00473,9828416255,Mumbai,Prepaid,2022-01-26,Inactive,Pending,High
+SUB00474,9844795538,Punjab,Postpaid,2024-11-25,Active,Pending,High
+SUB00475,9813940129,UP West,Postpaid,2022-08-30,Inactive,Verified,Medium
+SUB00476,9894226031,Karnataka,Postpaid,2025-03-26,Inactive,Pending,Low
+SUB00477,9886086168,Punjab,Postpaid,2024-10-20,Active,Pending,Low
+SUB00478,9825479814,Gujarat,Prepaid,2025-03-21,Active,Verified,Low
+SUB00479,9873319171,Madhya Pradesh,Postpaid,2022-04-05,Active,Verified,Low
+SUB00480,9898007006,Bihar,Prepaid,2025-02-06,Inactive,Verified,Medium
+SUB00481,9846407626,Karnataka,Postpaid,2023-10-18,Active,Verified,Low
+SUB00482,9879226031,Delhi,Postpaid,2023-04-03,Active,Pending,Medium
+SUB00483,9853929586,Karnataka,Postpaid,2023-09-29,Active,Pending,Low
+SUB00484,9885672859,UP East,Prepaid,2023-08-21,Inactive,Pending,High
+SUB00485,9836229153,Jammu & Kashmir,Prepaid,2024-10-07,Active,Verified,Medium
+SUB00486,9841272427,Jammu & Kashmir,Postpaid,2022-02-18,Suspended,Verified,Medium
+SUB00487,9898221829,West Bengal,Postpaid,2022-01-03,Active,Verified,High
+SUB00488,9866346728,Assam,Prepaid,2023-05-03,Active,Pending,Low
+SUB00489,9841067722,North East,Postpaid,2022-03-31,Suspended,Pending,Medium
+SUB00490,9887949714,Tamil Nadu,Prepaid,2022-06-23,Suspended,Pending,Low
+SUB00491,9818359464,Bihar,Prepaid,2025-03-08,Active,Pending,Medium
+SUB00492,9862741214,UP West,Postpaid,2023-10-08,Inactive,Pending,Low
+SUB00493,9837207628,Kerala,Prepaid,2022-06-02,Active,Verified,Low
+SUB00494,9872552858,UP West,Postpaid,2024-07-09,Active,Pending,Low
+SUB00495,9851380361,Odisha,Postpaid,2024-07-14,Active,Verified,Low
+SUB00496,9890973889,Delhi,Prepaid,2023-09-16,Inactive,Verified,Low
+SUB00497,9857746984,West Bengal,Prepaid,2023-05-24,Suspended,Pending,Medium
+SUB00498,9814171767,West Bengal,Postpaid,2022-12-23,Suspended,Verified,Low
+SUB00499,9823677772,Kerala,Prepaid,2024-08-04,Active,Verified,Low
+SUB00500,9836592965,West Bengal,Postpaid,2022-09-25,Suspended,Verified,High
+SUB00501,9844738319,Karnataka,Prepaid,2025-04-15,Active,Verified,High
+SUB00502,9827286109,Karnataka,Postpaid,2024-06-27,Active,Verified,Medium
+SUB00503,9832547129,Himachal Pradesh,Postpaid,2022-04-14,Suspended,Pending,Medium
+SUB00504,9861369075,Maharashtra,Postpaid,2022-03-02,Active,Pending,Low
+SUB00505,9846907428,Rajasthan,Postpaid,2023-01-19,Active,Verified,High
+SUB00506,9896876236,UP East,Postpaid,2023-05-19,Inactive,Pending,Low
+SUB00507,9847550897,West Bengal,Prepaid,2022-06-29,Inactive,Verified,High
+SUB00508,9843440045,Telangana,Prepaid,2024-12-12,Inactive,Pending,Medium
+SUB00509,9875052579,Madhya Pradesh,Postpaid,2025-01-20,Inactive,Pending,Low
+SUB00510,9852799022,Andhra Pradesh,Prepaid,2022-02-23,Active,Pending,Low
+SUB00511,9881059199,Madhya Pradesh,Prepaid,2024-08-24,Active,Verified,Low
+SUB00512,9845772648,Jammu & Kashmir,Prepaid,2023-05-09,Active,Pending,Medium
+SUB00513,9833635791,Gujarat,Postpaid,2022-12-22,Suspended,Pending,High
+SUB00514,9857201978,Himachal Pradesh,Prepaid,2022-02-27,Suspended,Verified,Medium
+SUB00515,9851480401,Punjab,Postpaid,2025-01-15,Active,Verified,Low
+SUB00516,9890753812,Gujarat,Prepaid,2023-04-22,Suspended,Pending,Low
+SUB00517,9892427773,Haryana,Prepaid,2023-11-11,Inactive,Verified,Medium
+SUB00518,9812941099,Kerala,Prepaid,2022-05-02,Active,Pending,Low
+SUB00519,9898870866,West Bengal,Prepaid,2024-02-05,Inactive,Pending,Medium
+SUB00520,9831139813,Bihar,Postpaid,2022-10-07,Suspended,Pending,Low
+SUB00521,9892370625,Madhya Pradesh,Prepaid,2025-02-24,Suspended,Verified,Medium
+SUB00522,9849529438,Kerala,Prepaid,2023-09-21,Suspended,Verified,High
+SUB00523,9862559853,Himachal Pradesh,Prepaid,2025-03-19,Active,Pending,High
+SUB00524,9895851936,Himachal Pradesh,Prepaid,2023-03-29,Inactive,Verified,Medium
+SUB00525,9841943272,Madhya Pradesh,Postpaid,2022-06-09,Active,Verified,High
+SUB00526,9869945655,Mumbai,Postpaid,2023-11-19,Active,Verified,High
+SUB00527,9857040785,Rajasthan,Prepaid,2022-05-19,Suspended,Verified,Low
+SUB00528,9868816911,Bihar,Prepaid,2024-03-01,Inactive,Pending,Medium
+SUB00529,9883286096,West Bengal,Prepaid,2023-12-21,Inactive,Verified,Low
+SUB00530,9819893106,Delhi,Postpaid,2024-07-13,Active,Pending,Medium
+SUB00531,9819959009,UP West,Prepaid,2022-08-03,Inactive,Verified,High
+SUB00532,9883423305,Karnataka,Postpaid,2022-06-03,Suspended,Pending,High
+SUB00533,9867891237,Telangana,Prepaid,2022-03-05,Suspended,Pending,Low
+SUB00534,9823590593,UP West,Prepaid,2022-04-20,Active,Pending,High
+SUB00535,9882494408,Rajasthan,Postpaid,2025-02-08,Inactive,Verified,Low
+SUB00536,9862734442,Himachal Pradesh,Postpaid,2022-04-12,Active,Verified,Medium
+SUB00537,9867392300,Karnataka,Postpaid,2022-01-08,Suspended,Pending,Low
+SUB00538,9813454186,Haryana,Prepaid,2022-07-18,Suspended,Pending,Low
+SUB00539,9825503345,UP East,Postpaid,2024-08-27,Inactive,Pending,High
+SUB00540,9822232184,Telangana,Postpaid,2023-06-27,Active,Pending,Medium
+SUB00541,9835042738,Odisha,Prepaid,2024-01-27,Inactive,Pending,Medium
+SUB00542,9840365724,Rajasthan,Prepaid,2023-06-24,Active,Verified,Low
+SUB00543,9882672055,Bihar,Prepaid,2023-12-06,Suspended,Verified,Medium
+SUB00544,9866187845,Jammu & Kashmir,Postpaid,2024-12-06,Suspended,Verified,Medium
+SUB00545,9820597167,West Bengal,Prepaid,2023-09-05,Suspended,Verified,Low
+SUB00546,9833203422,Punjab,Prepaid,2024-07-08,Active,Verified,Low
+SUB00547,9820518444,Maharashtra,Postpaid,2024-05-17,Active,Verified,High
+SUB00548,9852916049,Karnataka,Prepaid,2023-06-13,Inactive,Pending,High
+SUB00549,9847071046,North East,Postpaid,2023-10-30,Active,Pending,Low
+SUB00550,9830084652,Kerala,Prepaid,2024-04-28,Active,Verified,Medium
+SUB00551,9856153339,Bihar,Postpaid,2025-01-01,Inactive,Pending,High
+SUB00552,9815028557,Punjab,Postpaid,2024-08-26,Inactive,Verified,High
+SUB00553,9815205303,West Bengal,Postpaid,2024-04-02,Suspended,Verified,Low
+SUB00554,9846048781,Madhya Pradesh,Prepaid,2024-08-31,Inactive,Pending,Medium
+SUB00555,9875984013,Maharashtra,Prepaid,2023-07-29,Active,Verified,Medium
+SUB00556,9853066216,Rajasthan,Postpaid,2024-06-26,Suspended,Verified,Low
+SUB00557,9838372352,Bihar,Postpaid,2024-06-23,Suspended,Pending,Low
+SUB00558,9831336920,Karnataka,Postpaid,2024-11-21,Suspended,Pending,Low
+SUB00559,9886325904,Mumbai,Prepaid,2024-12-09,Active,Verified,Low
+SUB00560,9814438720,Odisha,Prepaid,2023-05-26,Inactive,Verified,Medium
+SUB00561,9872306347,North East,Postpaid,2024-01-25,Suspended,Verified,High
+SUB00562,9842472381,Madhya Pradesh,Postpaid,2022-03-04,Suspended,Pending,Low
+SUB00563,9888769733,Jammu & Kashmir,Postpaid,2024-08-29,Inactive,Verified,Medium
+SUB00564,9848261364,Mumbai,Postpaid,2022-07-05,Active,Verified,High
+SUB00565,9839709238,Telangana,Prepaid,2023-03-15,Suspended,Verified,Medium
+SUB00566,9878891441,Mumbai,Prepaid,2024-04-18,Inactive,Verified,High
+SUB00567,9890683906,Mumbai,Prepaid,2022-12-21,Inactive,Pending,High
+SUB00568,9866882385,West Bengal,Postpaid,2023-07-18,Inactive,Pending,Low
+SUB00569,9850553227,Maharashtra,Postpaid,2024-08-13,Suspended,Verified,Low
+SUB00570,9898899843,Madhya Pradesh,Postpaid,2024-11-13,Inactive,Verified,Medium
+SUB00571,9855135227,Rajasthan,Postpaid,2022-05-11,Inactive,Pending,High
+SUB00572,9835281262,Kerala,Prepaid,2023-09-04,Active,Pending,High
+SUB00573,9828781020,Mumbai,Postpaid,2023-10-17,Inactive,Pending,Medium
+SUB00574,9862113377,Delhi,Prepaid,2024-04-08,Inactive,Verified,High
+SUB00575,9895672999,Assam,Postpaid,2024-12-30,Suspended,Pending,Low
+SUB00576,9834311643,UP East,Prepaid,2025-02-17,Inactive,Verified,High
+SUB00577,9885031958,Punjab,Postpaid,2023-06-14,Suspended,Verified,Low
+SUB00578,9839974566,UP East,Postpaid,2023-12-29,Inactive,Pending,Medium
+SUB00579,9849466873,Odisha,Prepaid,2025-04-14,Inactive,Verified,High
+SUB00580,9887888306,Andhra Pradesh,Prepaid,2025-04-10,Inactive,Verified,High
+SUB00581,9861226775,North East,Postpaid,2022-09-03,Inactive,Verified,Low
+SUB00582,9836883353,UP West,Postpaid,2022-10-09,Suspended,Pending,Low
+SUB00583,9834207075,Karnataka,Postpaid,2023-10-10,Inactive,Verified,Medium
+SUB00584,9810632635,Odisha,Postpaid,2022-04-29,Active,Verified,High
+SUB00585,9875709924,Karnataka,Prepaid,2022-11-21,Suspended,Pending,High
+SUB00586,9864142556,Bihar,Postpaid,2024-05-29,Inactive,Verified,Low
+SUB00587,9836764927,Madhya Pradesh,Prepaid,2024-12-29,Inactive,Verified,Low
+SUB00588,9894112495,Gujarat,Prepaid,2022-01-09,Suspended,Pending,Medium
+SUB00589,9823785264,West Bengal,Postpaid,2022-09-22,Active,Verified,Low
+SUB00590,9849034245,Odisha,Postpaid,2023-09-03,Inactive,Verified,Medium
+SUB00591,9858217837,Haryana,Prepaid,2024-09-30,Inactive,Verified,Low
+SUB00592,9827610141,Haryana,Prepaid,2023-04-05,Suspended,Verified,Low
+SUB00593,9897314051,Delhi,Postpaid,2024-01-21,Suspended,Pending,High
+SUB00594,9889715138,Delhi,Prepaid,2022-04-10,Suspended,Verified,Low
+SUB00595,9865938669,Odisha,Postpaid,2022-08-26,Active,Pending,Medium
+SUB00596,9837581060,Maharashtra,Prepaid,2022-11-10,Inactive,Pending,High
+SUB00597,9898916958,North East,Postpaid,2022-07-26,Suspended,Verified,Medium
+SUB00598,9878663747,Andhra Pradesh,Prepaid,2022-08-03,Inactive,Verified,Low
+SUB00599,9836661903,Andhra Pradesh,Prepaid,2024-10-16,Inactive,Verified,Medium
+SUB00600,9849641367,Punjab,Prepaid,2024-04-19,Suspended,Pending,Low
+SUB00601,9854372866,Gujarat,Prepaid,2024-09-11,Active,Verified,Low
+SUB00602,9899794603,Assam,Prepaid,2025-03-21,Active,Verified,High
+SUB00603,9844345256,Telangana,Prepaid,2022-07-27,Inactive,Pending,Medium
+SUB00604,9816721650,Tamil Nadu,Prepaid,2024-08-08,Active,Pending,Medium
+SUB00605,9867176108,Tamil Nadu,Prepaid,2023-10-03,Active,Verified,Low
+SUB00606,9854112109,Madhya Pradesh,Postpaid,2022-12-16,Suspended,Pending,High
+SUB00607,9860012498,UP West,Prepaid,2022-07-10,Active,Pending,Medium
+SUB00608,9846484819,West Bengal,Postpaid,2024-07-23,Inactive,Verified,Low
+SUB00609,9817871385,Punjab,Prepaid,2022-09-29,Inactive,Pending,High
+SUB00610,9834328380,Andhra Pradesh,Postpaid,2024-06-16,Inactive,Verified,High
+SUB00611,9874837853,Assam,Prepaid,2022-09-25,Inactive,Pending,Low
+SUB00612,9845113084,Telangana,Postpaid,2022-05-10,Active,Verified,High
+SUB00613,9879672379,North East,Prepaid,2023-11-24,Inactive,Verified,Medium
+SUB00614,9899081734,Maharashtra,Postpaid,2023-12-10,Active,Verified,Low
+SUB00615,9877856130,Assam,Postpaid,2022-11-18,Active,Verified,Medium
+SUB00616,9842331952,UP West,Postpaid,2023-10-19,Active,Verified,High
+SUB00617,9864126921,Gujarat,Prepaid,2024-02-15,Inactive,Pending,High
+SUB00618,9821813825,Assam,Postpaid,2024-07-06,Inactive,Verified,Medium
+SUB00619,9823776553,West Bengal,Postpaid,2022-02-06,Active,Verified,Low
+SUB00620,9878227936,Jammu & Kashmir,Prepaid,2023-09-16,Suspended,Pending,Medium
+SUB00621,9817284695,Gujarat,Postpaid,2024-01-15,Inactive,Pending,High
+SUB00622,9870737878,Tamil Nadu,Prepaid,2024-01-15,Suspended,Verified,Low
+SUB00623,9857665946,Telangana,Postpaid,2023-12-01,Suspended,Pending,High
+SUB00624,9816144233,Punjab,Postpaid,2022-08-06,Active,Pending,Low
+SUB00625,9891987136,Haryana,Prepaid,2023-06-05,Active,Pending,Low
+SUB00626,9835579048,UP West,Prepaid,2024-07-25,Inactive,Verified,High
+SUB00627,9870465703,Odisha,Prepaid,2022-09-10,Inactive,Verified,High
+SUB00628,9884252780,Bihar,Postpaid,2022-04-10,Suspended,Verified,High
+SUB00629,9833306944,Kerala,Prepaid,2025-03-30,Inactive,Pending,High
+SUB00630,9866192230,Andhra Pradesh,Prepaid,2024-02-27,Inactive,Pending,Medium
+SUB00631,9870779921,Kerala,Prepaid,2023-08-26,Inactive,Pending,High
+SUB00632,9852132393,Jammu & Kashmir,Prepaid,2025-01-26,Active,Verified,High
+SUB00633,9856344519,Maharashtra,Prepaid,2023-08-19,Suspended,Verified,High
+SUB00634,9895480242,UP West,Prepaid,2025-01-16,Inactive,Pending,High
+SUB00635,9899544328,Bihar,Postpaid,2025-03-14,Inactive,Verified,High
+SUB00636,9813391969,West Bengal,Prepaid,2022-08-07,Active,Verified,Low
+SUB00637,9831600382,UP East,Postpaid,2023-07-01,Active,Verified,High
+SUB00638,9837380537,Jammu & Kashmir,Prepaid,2023-08-28,Inactive,Pending,Low
+SUB00639,9840106027,Telangana,Postpaid,2025-02-24,Active,Pending,High
+SUB00640,9861215153,West Bengal,Postpaid,2022-04-07,Suspended,Pending,High
+SUB00641,9811740164,Rajasthan,Prepaid,2022-04-21,Suspended,Pending,Low
+SUB00642,9888971743,Jammu & Kashmir,Prepaid,2024-01-24,Suspended,Verified,Medium
+SUB00643,9833813700,Maharashtra,Prepaid,2024-07-08,Active,Verified,High
+SUB00644,9826019397,West Bengal,Prepaid,2024-11-18,Inactive,Pending,High
+SUB00645,9827457234,Punjab,Postpaid,2023-06-26,Active,Pending,Medium
+SUB00646,9815360735,Kerala,Postpaid,2022-11-14,Suspended,Verified,High
+SUB00647,9875840632,Himachal Pradesh,Postpaid,2023-09-09,Active,Pending,High
+SUB00648,9834678492,North East,Prepaid,2023-03-27,Suspended,Verified,Medium
+SUB00649,9882079745,West Bengal,Prepaid,2025-01-17,Inactive,Verified,Low
+SUB00650,9854434998,Madhya Pradesh,Postpaid,2023-11-11,Active,Pending,High
+SUB00651,9825397719,Maharashtra,Postpaid,2022-01-19,Inactive,Verified,High
+SUB00652,9815352233,Maharashtra,Postpaid,2023-05-15,Inactive,Verified,Medium
+SUB00653,9882509424,UP East,Prepaid,2023-06-10,Suspended,Pending,High
+SUB00654,9869801634,Assam,Prepaid,2024-11-07,Inactive,Verified,Medium
+SUB00655,9821052218,Tamil Nadu,Prepaid,2024-11-18,Suspended,Verified,High
+SUB00656,9838290610,Maharashtra,Prepaid,2022-05-15,Suspended,Pending,Low
+SUB00657,9882176148,Bihar,Prepaid,2023-02-26,Suspended,Verified,Low
+SUB00658,9854522084,Delhi,Prepaid,2024-07-29,Active,Verified,Low
+SUB00659,9884904794,Karnataka,Prepaid,2023-05-31,Inactive,Pending,Medium
+SUB00660,9894586329,West Bengal,Postpaid,2024-07-12,Inactive,Verified,Medium
+SUB00661,9881784254,Mumbai,Prepaid,2022-08-31,Suspended,Verified,High
+SUB00662,9858009699,North East,Prepaid,2022-05-29,Inactive,Pending,High
+SUB00663,9847784631,Odisha,Postpaid,2022-06-27,Inactive,Verified,Medium
+SUB00664,9881600831,Gujarat,Prepaid,2022-11-17,Suspended,Pending,High
+SUB00665,9895100169,Kerala,Postpaid,2023-08-28,Suspended,Pending,Low
+SUB00666,9884500200,Kerala,Prepaid,2025-02-07,Active,Verified,High
+SUB00667,9882095327,Jammu & Kashmir,Prepaid,2024-03-18,Inactive,Verified,High
+SUB00668,9838418851,Bihar,Prepaid,2023-12-06,Active,Verified,Low
+SUB00669,9836082023,Tamil Nadu,Prepaid,2023-06-02,Suspended,Verified,High
+SUB00670,9896526748,Jammu & Kashmir,Prepaid,2024-08-02,Inactive,Verified,Medium
+SUB00671,9836496940,Himachal Pradesh,Postpaid,2022-07-21,Inactive,Pending,Low
+SUB00672,9823427820,UP East,Prepaid,2023-04-26,Active,Pending,Medium
+SUB00673,9854069864,Andhra Pradesh,Postpaid,2024-07-11,Suspended,Verified,High
+SUB00674,9858921480,UP West,Postpaid,2025-03-06,Active,Verified,Medium
+SUB00675,9839732676,Telangana,Postpaid,2023-05-20,Inactive,Pending,Low
+SUB00676,9874418331,Odisha,Postpaid,2023-11-11,Inactive,Pending,Medium
+SUB00677,9824607269,Punjab,Prepaid,2025-02-03,Inactive,Verified,High
+SUB00678,9845330756,Telangana,Prepaid,2023-02-07,Suspended,Verified,Low
+SUB00679,9894775473,Mumbai,Postpaid,2024-11-04,Suspended,Verified,Low
+SUB00680,9844979330,Jammu & Kashmir,Postpaid,2025-02-03,Suspended,Verified,Medium
+SUB00681,9839971710,Himachal Pradesh,Postpaid,2024-03-14,Active,Pending,High
+SUB00682,9822153955,West Bengal,Postpaid,2024-11-11,Suspended,Verified,High
+SUB00683,9892414513,Maharashtra,Prepaid,2023-05-05,Suspended,Verified,Medium
+SUB00684,9834044459,Himachal Pradesh,Prepaid,2022-11-23,Suspended,Pending,Medium
+SUB00685,9839369404,Assam,Prepaid,2022-03-24,Active,Pending,Medium
+SUB00686,9815745651,Maharashtra,Prepaid,2023-04-25,Suspended,Pending,Medium
+SUB00687,9871021210,Delhi,Prepaid,2024-08-19,Suspended,Pending,Low
+SUB00688,9895035920,Rajasthan,Postpaid,2024-12-03,Suspended,Verified,Medium
+SUB00689,9859029303,Himachal Pradesh,Prepaid,2024-02-15,Suspended,Pending,Medium
+SUB00690,9879306247,West Bengal,Postpaid,2023-04-02,Inactive,Pending,Medium
+SUB00691,9877355419,Kerala,Postpaid,2022-01-14,Active,Verified,Low
+SUB00692,9896366021,Rajasthan,Prepaid,2024-11-19,Active,Verified,Low
+SUB00693,9890801793,Tamil Nadu,Prepaid,2024-01-12,Inactive,Pending,High
+SUB00694,9874628070,Maharashtra,Postpaid,2022-08-21,Inactive,Verified,High
+SUB00695,9896873663,Bihar,Prepaid,2022-11-27,Active,Verified,Low
+SUB00696,9889503557,Punjab,Prepaid,2025-03-20,Suspended,Verified,High
+SUB00697,9817504382,Punjab,Postpaid,2022-10-28,Active,Pending,High
+SUB00698,9895580271,Mumbai,Postpaid,2025-02-28,Active,Verified,Medium
+SUB00699,9874648438,Punjab,Prepaid,2024-08-23,Inactive,Verified,High
+SUB00700,9893646063,Maharashtra,Postpaid,2023-01-08,Active,Pending,Medium
+SUB00701,9840845084,West Bengal,Postpaid,2022-05-21,Active,Verified,Low
+SUB00702,9880157128,North East,Postpaid,2023-02-19,Active,Verified,Low
+SUB00703,9892510102,Andhra Pradesh,Prepaid,2024-09-01,Suspended,Verified,Low
+SUB00704,9898502178,Kerala,Prepaid,2024-09-14,Suspended,Pending,High
+SUB00705,9859711219,Delhi,Postpaid,2024-05-11,Active,Pending,Medium
+SUB00706,9889060695,Himachal Pradesh,Prepaid,2023-12-19,Inactive,Verified,Medium
+SUB00707,9841207351,Karnataka,Postpaid,2024-09-04,Suspended,Pending,Medium
+SUB00708,9810734097,Mumbai,Prepaid,2023-01-23,Suspended,Verified,Medium
+SUB00709,9852399610,Bihar,Postpaid,2023-02-25,Active,Verified,Medium
+SUB00710,9844042008,Rajasthan,Postpaid,2025-04-13,Suspended,Pending,High
+SUB00711,9863345392,Haryana,Postpaid,2023-07-19,Suspended,Pending,Low
+SUB00712,9885040303,Jammu & Kashmir,Postpaid,2024-01-29,Inactive,Pending,High
+SUB00713,9863436070,Kerala,Prepaid,2023-12-07,Suspended,Verified,Medium
+SUB00714,9823459168,Haryana,Postpaid,2022-11-28,Inactive,Verified,Low
+SUB00715,9895345915,Mumbai,Prepaid,2024-03-07,Active,Pending,High
+SUB00716,9821830043,Karnataka,Postpaid,2024-06-10,Active,Pending,Low
+SUB00717,9861583363,West Bengal,Postpaid,2022-03-19,Suspended,Verified,Low
+SUB00718,9868917831,Mumbai,Prepaid,2024-10-09,Suspended,Pending,Low
+SUB00719,9890465529,North East,Prepaid,2022-03-10,Suspended,Verified,High
+SUB00720,9858283485,Gujarat,Prepaid,2022-03-15,Active,Verified,Medium
+SUB00721,9857395992,Maharashtra,Postpaid,2024-03-29,Inactive,Verified,High
+SUB00722,9819209640,Karnataka,Postpaid,2022-02-01,Suspended,Pending,Medium
+SUB00723,9840372869,Andhra Pradesh,Prepaid,2023-07-21,Inactive,Pending,High
+SUB00724,9845045256,Punjab,Postpaid,2022-01-10,Suspended,Verified,High
+SUB00725,9877534222,UP East,Postpaid,2022-05-29,Active,Pending,High
+SUB00726,9843573422,Odisha,Postpaid,2025-03-23,Suspended,Pending,Low
+SUB00727,9871585593,Maharashtra,Postpaid,2023-11-27,Suspended,Verified,Medium
+SUB00728,9844603983,Karnataka,Postpaid,2022-08-27,Suspended,Verified,High
+SUB00729,9852376656,Bihar,Postpaid,2023-04-16,Suspended,Verified,High
+SUB00730,9843320572,UP East,Prepaid,2023-06-24,Inactive,Pending,Low
+SUB00731,9833955951,Assam,Postpaid,2025-02-09,Inactive,Verified,High
+SUB00732,9834532913,Maharashtra,Prepaid,2023-07-06,Inactive,Verified,Low
+SUB00733,9845622106,Haryana,Prepaid,2023-05-11,Active,Verified,High
+SUB00734,9830937370,Tamil Nadu,Prepaid,2023-12-31,Active,Pending,High
+SUB00735,9882675403,Delhi,Postpaid,2022-01-14,Inactive,Pending,Medium
+SUB00736,9846874043,Assam,Prepaid,2025-03-22,Suspended,Pending,Medium
+SUB00737,9887398691,Kerala,Prepaid,2023-03-31,Suspended,Pending,Medium
+SUB00738,9814370484,North East,Postpaid,2025-01-12,Inactive,Verified,Medium
+SUB00739,9879552316,Odisha,Postpaid,2022-09-04,Suspended,Verified,Low
+SUB00740,9860925964,Himachal Pradesh,Prepaid,2023-03-08,Inactive,Pending,High
+SUB00741,9835119175,Jammu & Kashmir,Postpaid,2023-06-16,Active,Pending,Medium
+SUB00742,9859113508,Punjab,Postpaid,2023-12-04,Inactive,Verified,Medium
+SUB00743,9858999937,West Bengal,Postpaid,2024-02-02,Inactive,Verified,High
+SUB00744,9887295013,Maharashtra,Prepaid,2022-09-26,Active,Pending,Low
+SUB00745,9868011418,West Bengal,Prepaid,2025-02-11,Active,Verified,Medium
+SUB00746,9833703827,Bihar,Postpaid,2022-01-20,Active,Pending,Medium
+SUB00747,9843685164,Jammu & Kashmir,Prepaid,2023-09-07,Inactive,Verified,High
+SUB00748,9818057946,Haryana,Postpaid,2022-12-01,Inactive,Verified,Medium
+SUB00749,9844865621,Madhya Pradesh,Postpaid,2023-11-17,Suspended,Pending,Medium
+SUB00750,9865265613,Tamil Nadu,Postpaid,2022-02-10,Suspended,Verified,High
+SUB00751,9897223468,Telangana,Prepaid,2025-03-25,Inactive,Pending,Medium
+SUB00752,9875430302,Odisha,Prepaid,2024-11-11,Inactive,Pending,Medium
+SUB00753,9832491607,Telangana,Postpaid,2022-10-24,Inactive,Pending,Low
+SUB00754,9831743203,UP West,Prepaid,2022-06-12,Inactive,Pending,High
+SUB00755,9845899536,Andhra Pradesh,Postpaid,2023-08-20,Inactive,Pending,Medium
+SUB00756,9870436720,Bihar,Prepaid,2024-12-02,Active,Verified,Low
+SUB00757,9898855162,Rajasthan,Prepaid,2023-04-26,Active,Verified,Medium
+SUB00758,9822825003,Karnataka,Postpaid,2022-07-30,Suspended,Verified,Low
+SUB00759,9880327779,Karnataka,Prepaid,2024-03-24,Inactive,Verified,Low
+SUB00760,9851523026,Gujarat,Prepaid,2024-03-09,Suspended,Pending,Medium
+SUB00761,9827619715,North East,Prepaid,2022-09-16,Active,Verified,High
+SUB00762,9853647781,Assam,Postpaid,2024-01-01,Suspended,Pending,High
+SUB00763,9828134815,Jammu & Kashmir,Prepaid,2024-06-30,Suspended,Pending,High
+SUB00764,9868381674,North East,Postpaid,2025-03-01,Inactive,Pending,High
+SUB00765,9822019737,Odisha,Postpaid,2023-04-11,Inactive,Pending,Medium
+SUB00766,9850744867,Mumbai,Prepaid,2022-11-15,Suspended,Verified,Medium
+SUB00767,9872974683,Jammu & Kashmir,Prepaid,2023-08-11,Suspended,Pending,Medium
+SUB00768,9811225756,Bihar,Postpaid,2023-09-06,Suspended,Verified,Low
+SUB00769,9860149632,Haryana,Postpaid,2025-01-27,Suspended,Pending,Medium
+SUB00770,9831913660,Telangana,Postpaid,2023-05-27,Inactive,Verified,Medium
+SUB00771,9866672010,Telangana,Prepaid,2022-06-12,Suspended,Pending,Medium
+SUB00772,9846080681,Bihar,Prepaid,2024-12-25,Active,Verified,Low
+SUB00773,9824811778,Telangana,Postpaid,2023-08-17,Suspended,Pending,Medium
+SUB00774,9835204672,UP West,Prepaid,2024-10-04,Active,Verified,High
+SUB00775,9834956121,Tamil Nadu,Postpaid,2022-02-15,Inactive,Verified,High
+SUB00776,9811101134,Gujarat,Prepaid,2024-06-16,Active,Verified,Medium
+SUB00777,9855890766,Bihar,Postpaid,2023-03-21,Inactive,Pending,Medium
+SUB00778,9854325223,Karnataka,Prepaid,2022-03-06,Active,Pending,Medium
+SUB00779,9882905989,Assam,Prepaid,2022-05-27,Active,Pending,Medium
+SUB00780,9826369402,Gujarat,Postpaid,2022-01-26,Inactive,Verified,High
+SUB00781,9836733470,Odisha,Prepaid,2022-03-10,Suspended,Verified,Medium
+SUB00782,9851890609,UP West,Prepaid,2024-03-07,Suspended,Verified,High
+SUB00783,9879917538,Tamil Nadu,Postpaid,2025-01-30,Inactive,Pending,Low
+SUB00784,9816991067,Maharashtra,Prepaid,2024-01-09,Active,Verified,High
+SUB00785,9853555463,Mumbai,Prepaid,2024-06-08,Inactive,Verified,Medium
+SUB00786,9811198544,Delhi,Postpaid,2023-05-13,Suspended,Verified,Medium
+SUB00787,9843382936,Punjab,Postpaid,2022-07-03,Active,Pending,High
+SUB00788,9818022882,Madhya Pradesh,Prepaid,2022-05-03,Suspended,Verified,Low
+SUB00789,9841229060,UP West,Postpaid,2024-09-26,Inactive,Verified,Low
+SUB00790,9858072427,Kerala,Postpaid,2024-02-13,Active,Pending,High
+SUB00791,9885031037,UP East,Postpaid,2024-06-15,Active,Verified,High
+SUB00792,9853443711,Odisha,Postpaid,2023-12-14,Suspended,Verified,Low
+SUB00793,9830807167,Odisha,Postpaid,2024-12-23,Inactive,Pending,Medium
+SUB00794,9895634408,North East,Postpaid,2022-01-02,Suspended,Verified,Low
+SUB00795,9893241474,Gujarat,Postpaid,2024-01-16,Suspended,Verified,High
+SUB00796,9862008140,Haryana,Postpaid,2025-01-08,Suspended,Verified,High
+SUB00797,9853298644,Bihar,Postpaid,2023-08-03,Active,Verified,High
+SUB00798,9815875684,Kerala,Prepaid,2022-05-17,Active,Verified,Low
+SUB00799,9835718350,Tamil Nadu,Prepaid,2024-09-21,Suspended,Pending,High
+SUB00800,9880574548,Andhra Pradesh,Postpaid,2024-09-30,Active,Pending,Low
+SUB00801,9811756387,Haryana,Postpaid,2022-05-26,Active,Pending,High
+SUB00802,9858442674,Jammu & Kashmir,Postpaid,2022-05-05,Inactive,Verified,High
+SUB00803,9881003974,Delhi,Prepaid,2023-06-29,Inactive,Verified,Low
+SUB00804,9823035125,Tamil Nadu,Prepaid,2024-11-29,Suspended,Pending,Low
+SUB00805,9880624297,Maharashtra,Prepaid,2023-01-31,Suspended,Verified,High
+SUB00806,9865725133,Tamil Nadu,Postpaid,2025-02-17,Suspended,Pending,High
+SUB00807,9823972387,Punjab,Prepaid,2024-05-24,Suspended,Pending,High
+SUB00808,9898252435,Punjab,Postpaid,2023-11-23,Inactive,Pending,High
+SUB00809,9859891348,Bihar,Postpaid,2023-10-27,Suspended,Pending,High
+SUB00810,9885584002,Jammu & Kashmir,Prepaid,2023-05-08,Inactive,Pending,Medium
+SUB00811,9870062404,West Bengal,Prepaid,2024-07-15,Suspended,Verified,Medium
+SUB00812,9879472352,Kerala,Postpaid,2022-02-03,Active,Pending,Low
+SUB00813,9852265790,Mumbai,Postpaid,2023-03-16,Suspended,Verified,Low
+SUB00814,9871789789,Madhya Pradesh,Prepaid,2022-03-19,Active,Pending,Medium
+SUB00815,9843535226,Gujarat,Postpaid,2025-04-07,Inactive,Verified,High
+SUB00816,9886378602,Haryana,Prepaid,2024-03-29,Suspended,Pending,Medium
+SUB00817,9875535348,Himachal Pradesh,Prepaid,2022-12-21,Suspended,Pending,Low
+SUB00818,9861210252,Karnataka,Prepaid,2025-03-26,Inactive,Pending,Medium
+SUB00819,9826178675,Gujarat,Prepaid,2024-05-03,Suspended,Pending,Low
+SUB00820,9880381542,Delhi,Postpaid,2023-09-17,Suspended,Verified,Medium
+SUB00821,9839634895,Kerala,Prepaid,2024-10-25,Suspended,Pending,Medium
+SUB00822,9877743626,Karnataka,Prepaid,2025-03-24,Inactive,Pending,Medium
+SUB00823,9827742113,UP West,Prepaid,2022-10-31,Inactive,Verified,High
+SUB00824,9845239935,Karnataka,Postpaid,2024-03-28,Suspended,Pending,High
+SUB00825,9828102047,Assam,Prepaid,2022-09-25,Inactive,Pending,High
+SUB00826,9836320002,Jammu & Kashmir,Prepaid,2025-03-16,Active,Verified,Medium
+SUB00827,9853407575,Maharashtra,Prepaid,2024-05-30,Active,Pending,Medium
+SUB00828,9856749089,Haryana,Postpaid,2024-01-19,Inactive,Verified,Medium
+SUB00829,9856938140,Andhra Pradesh,Postpaid,2022-12-13,Suspended,Verified,Medium
+SUB00830,9841338443,Haryana,Postpaid,2022-04-02,Active,Verified,Low
+SUB00831,9842621391,Andhra Pradesh,Prepaid,2022-04-22,Inactive,Verified,Medium
+SUB00832,9850952251,Odisha,Postpaid,2022-08-16,Active,Pending,Low
+SUB00833,9838437423,Haryana,Postpaid,2025-01-06,Suspended,Pending,High
+SUB00834,9899692417,Mumbai,Postpaid,2022-10-17,Suspended,Verified,Medium
+SUB00835,9818067834,UP East,Prepaid,2022-12-15,Suspended,Pending,Low
+SUB00836,9897880113,Mumbai,Prepaid,2024-08-10,Inactive,Pending,High
+SUB00837,9824480943,Mumbai,Postpaid,2024-01-08,Suspended,Pending,Low
+SUB00838,9878255127,Tamil Nadu,Postpaid,2024-02-19,Inactive,Verified,Low
+SUB00839,9877196215,Odisha,Prepaid,2023-02-12,Active,Verified,High
+SUB00840,9854770958,Assam,Postpaid,2023-09-17,Suspended,Verified,Low
+SUB00841,9857232974,Madhya Pradesh,Postpaid,2023-12-12,Active,Pending,Low
+SUB00842,9861965156,Mumbai,Postpaid,2023-06-12,Active,Verified,Medium
+SUB00843,9898171888,Kerala,Prepaid,2024-03-15,Suspended,Pending,High
+SUB00844,9866013532,Gujarat,Prepaid,2023-04-11,Inactive,Pending,High
+SUB00845,9870286467,Jammu & Kashmir,Prepaid,2023-11-06,Active,Verified,High
+SUB00846,9837153619,Kerala,Postpaid,2025-01-13,Suspended,Verified,Medium
+SUB00847,9898077934,Himachal Pradesh,Prepaid,2022-10-25,Inactive,Verified,High
+SUB00848,9825889673,Punjab,Postpaid,2024-12-27,Active,Verified,Medium
+SUB00849,9865197277,UP East,Postpaid,2024-04-27,Suspended,Pending,Low
+SUB00850,9824330619,Kerala,Prepaid,2023-01-20,Active,Pending,High
+SUB00851,9892189839,Gujarat,Prepaid,2025-03-07,Active,Verified,Medium
+SUB00852,9873968467,Kerala,Postpaid,2022-06-12,Suspended,Pending,Low
+SUB00853,9875960711,Assam,Prepaid,2024-03-04,Active,Verified,Low
+SUB00854,9864839908,Mumbai,Postpaid,2022-03-08,Inactive,Verified,High
+SUB00855,9837455861,Karnataka,Prepaid,2023-02-20,Inactive,Pending,High
+SUB00856,9871410640,Gujarat,Postpaid,2023-10-28,Inactive,Verified,High
+SUB00857,9851996390,West Bengal,Prepaid,2024-02-19,Suspended,Verified,Medium
+SUB00858,9815692967,Gujarat,Postpaid,2024-07-24,Suspended,Verified,High
+SUB00859,9879273350,Telangana,Prepaid,2024-03-04,Active,Pending,Medium
+SUB00860,9850876565,UP East,Postpaid,2024-03-26,Active,Pending,Medium
+SUB00861,9879386491,Kerala,Postpaid,2022-04-22,Suspended,Pending,Low
+SUB00862,9825189633,Punjab,Prepaid,2024-10-22,Inactive,Pending,Medium
+SUB00863,9813343647,Punjab,Postpaid,2024-07-12,Suspended,Verified,Medium
+SUB00864,9843565477,UP West,Prepaid,2022-07-04,Suspended,Verified,Low
+SUB00865,9870317234,Telangana,Postpaid,2022-08-22,Active,Pending,High
+SUB00866,9892150984,Punjab,Postpaid,2024-11-13,Suspended,Pending,Low
+SUB00867,9854988861,Himachal Pradesh,Prepaid,2022-12-16,Active,Verified,Low
+SUB00868,9866315301,UP East,Postpaid,2022-04-16,Suspended,Pending,Medium
+SUB00869,9825777827,Kerala,Prepaid,2023-01-06,Active,Pending,Low
+SUB00870,9876790446,Assam,Prepaid,2024-07-28,Suspended,Pending,Low
+SUB00871,9889035763,Maharashtra,Postpaid,2023-03-21,Inactive,Pending,Medium
+SUB00872,9890693921,Andhra Pradesh,Prepaid,2022-06-12,Active,Pending,High
+SUB00873,9837868647,Delhi,Prepaid,2025-02-15,Active,Verified,High
+SUB00874,9814928616,Kerala,Prepaid,2023-12-16,Suspended,Pending,Medium
+SUB00875,9816580878,Tamil Nadu,Postpaid,2022-06-29,Active,Verified,High
+SUB00876,9892019078,Maharashtra,Prepaid,2023-08-06,Inactive,Pending,Low
+SUB00877,9850170625,UP West,Postpaid,2022-07-10,Inactive,Verified,Medium
+SUB00878,9818714202,UP East,Postpaid,2025-02-01,Active,Verified,High
+SUB00879,9854185620,North East,Postpaid,2023-07-17,Suspended,Verified,High
+SUB00880,9892148463,Delhi,Prepaid,2023-03-05,Suspended,Verified,Medium
+SUB00881,9867318164,Andhra Pradesh,Postpaid,2023-08-12,Inactive,Pending,Low
+SUB00882,9876625267,North East,Postpaid,2025-02-26,Inactive,Verified,High
+SUB00883,9848988647,Haryana,Prepaid,2023-04-22,Active,Verified,Medium
+SUB00884,9837827473,Andhra Pradesh,Postpaid,2022-08-30,Inactive,Verified,Medium
+SUB00885,9885217695,Telangana,Prepaid,2023-12-18,Active,Verified,High
+SUB00886,9844147341,Karnataka,Postpaid,2023-07-31,Inactive,Pending,Low
+SUB00887,9854732472,UP West,Postpaid,2022-08-22,Suspended,Verified,Low
+SUB00888,9854360949,UP West,Postpaid,2023-02-02,Inactive,Verified,High
+SUB00889,9874625235,Kerala,Postpaid,2022-10-06,Suspended,Pending,Medium
+SUB00890,9817519183,North East,Postpaid,2024-04-27,Suspended,Pending,High
+SUB00891,9812512345,Haryana,Postpaid,2025-01-02,Inactive,Verified,Low
+SUB00892,9814183991,UP West,Postpaid,2023-07-29,Suspended,Verified,High
+SUB00893,9835149571,Andhra Pradesh,Prepaid,2024-03-08,Inactive,Pending,High
+SUB00894,9846439766,Bihar,Prepaid,2022-03-06,Inactive,Verified,Medium
+SUB00895,9850618137,Haryana,Postpaid,2024-07-14,Active,Verified,Medium
+SUB00896,9837125189,Karnataka,Postpaid,2022-03-18,Suspended,Verified,Medium
+SUB00897,9830679969,Haryana,Postpaid,2024-10-21,Inactive,Pending,Medium
+SUB00898,9823187101,North East,Prepaid,2022-10-21,Active,Verified,Medium
+SUB00899,9880107942,Tamil Nadu,Prepaid,2024-03-04,Inactive,Verified,High
+SUB00900,9854733393,Odisha,Prepaid,2022-06-28,Active,Pending,Low
+SUB00901,9851895110,Telangana,Prepaid,2025-03-28,Inactive,Verified,Low
+SUB00902,9847131272,Jammu & Kashmir,Postpaid,2023-08-10,Inactive,Verified,Medium
+SUB00903,9831138757,Rajasthan,Prepaid,2022-11-02,Active,Verified,Low
+SUB00904,9857018904,Jammu & Kashmir,Postpaid,2025-01-16,Inactive,Verified,High
+SUB00905,9887052108,Gujarat,Prepaid,2023-08-04,Active,Pending,High
+SUB00906,9882555030,Odisha,Prepaid,2023-11-25,Active,Verified,Medium
+SUB00907,9824217270,West Bengal,Prepaid,2022-04-14,Active,Pending,Medium
+SUB00908,9890010054,Himachal Pradesh,Postpaid,2023-01-02,Suspended,Pending,Medium
+SUB00909,9836594858,Maharashtra,Prepaid,2023-11-12,Inactive,Verified,Low
+SUB00910,9823054418,Odisha,Postpaid,2024-08-17,Suspended,Pending,Medium
+SUB00911,9840037183,Kerala,Postpaid,2023-04-20,Inactive,Pending,Low
+SUB00912,9853588695,Odisha,Postpaid,2023-11-08,Active,Verified,Medium
+SUB00913,9857169588,Assam,Postpaid,2022-08-20,Active,Pending,Medium
+SUB00914,9827098533,North East,Prepaid,2025-03-22,Inactive,Verified,Medium
+SUB00915,9897167893,Karnataka,Postpaid,2025-02-12,Suspended,Pending,Medium
+SUB00916,9842021033,Andhra Pradesh,Prepaid,2024-04-26,Suspended,Verified,Medium
+SUB00917,9818866414,UP West,Prepaid,2024-02-26,Suspended,Pending,Medium
+SUB00918,9855929418,Jammu & Kashmir,Prepaid,2025-03-07,Active,Verified,High
+SUB00919,9875314414,Tamil Nadu,Postpaid,2025-03-21,Inactive,Verified,Medium
+SUB00920,9851343854,West Bengal,Prepaid,2022-12-27,Suspended,Verified,High
+SUB00921,9853943990,Assam,Prepaid,2024-02-16,Active,Verified,Low
+SUB00922,9895380301,Mumbai,Prepaid,2025-04-04,Suspended,Verified,Medium
+SUB00923,9849124904,West Bengal,Postpaid,2024-12-24,Active,Verified,High
+SUB00924,9850229795,Himachal Pradesh,Postpaid,2023-10-11,Inactive,Pending,Low
+SUB00925,9811089747,Andhra Pradesh,Postpaid,2025-04-08,Active,Pending,Low
+SUB00926,9883670115,Delhi,Prepaid,2024-01-27,Suspended,Pending,Low
+SUB00927,9814185545,Gujarat,Postpaid,2023-08-01,Suspended,Pending,High
+SUB00928,9861377152,West Bengal,Postpaid,2023-10-14,Inactive,Verified,High
+SUB00929,9873736162,Kerala,Prepaid,2022-12-22,Suspended,Pending,Medium
+SUB00930,9830705405,UP East,Prepaid,2024-05-04,Active,Verified,Low
+SUB00931,9829326800,Assam,Postpaid,2022-02-02,Active,Verified,Low
+SUB00932,9871207129,Andhra Pradesh,Postpaid,2024-05-01,Suspended,Verified,Medium
+SUB00933,9866925051,Jammu & Kashmir,Postpaid,2024-11-09,Inactive,Pending,Low
+SUB00934,9867011913,Andhra Pradesh,Prepaid,2023-01-16,Suspended,Pending,High
+SUB00935,9877340900,Rajasthan,Postpaid,2023-04-30,Suspended,Pending,Low
+SUB00936,9886255745,Assam,Postpaid,2022-03-19,Active,Pending,High
+SUB00937,9829070658,North East,Postpaid,2022-06-13,Inactive,Verified,High
+SUB00938,9842914388,Assam,Prepaid,2022-07-01,Suspended,Pending,High
+SUB00939,9856109986,Jammu & Kashmir,Prepaid,2022-04-19,Inactive,Pending,High
+SUB00940,9887036318,UP West,Postpaid,2024-08-18,Inactive,Pending,Medium
+SUB00941,9814741407,Andhra Pradesh,Postpaid,2022-12-10,Suspended,Pending,Low
+SUB00942,9887596783,Punjab,Prepaid,2024-08-27,Suspended,Pending,High
+SUB00943,9848495745,Assam,Prepaid,2022-02-25,Active,Verified,Medium
+SUB00944,9827789051,Andhra Pradesh,Postpaid,2023-06-01,Inactive,Pending,Low
+SUB00945,9891043555,Punjab,Prepaid,2022-08-17,Suspended,Pending,Medium
+SUB00946,9845064728,Gujarat,Postpaid,2022-12-26,Active,Verified,Medium
+SUB00947,9829470999,Andhra Pradesh,Prepaid,2022-06-22,Inactive,Pending,Medium
+SUB00948,9898673262,Odisha,Prepaid,2023-05-03,Active,Pending,Low
+SUB00949,9825568500,Delhi,Prepaid,2023-06-26,Inactive,Pending,Medium
+SUB00950,9873923372,Jammu & Kashmir,Prepaid,2023-09-10,Inactive,Pending,Medium
+SUB00951,9829481680,North East,Postpaid,2023-06-22,Active,Pending,Medium
+SUB00952,9852371009,North East,Prepaid,2024-02-22,Active,Pending,Medium
+SUB00953,9854958564,Rajasthan,Postpaid,2023-07-13,Active,Pending,High
+SUB00954,9862499769,Odisha,Prepaid,2025-04-11,Suspended,Verified,High
+SUB00955,9834148004,UP West,Prepaid,2023-11-23,Suspended,Verified,Low
+SUB00956,9865196875,Tamil Nadu,Prepaid,2022-01-25,Suspended,Pending,Medium
+SUB00957,9848023482,Rajasthan,Prepaid,2023-03-26,Active,Verified,High
+SUB00958,9817634560,Andhra Pradesh,Prepaid,2022-07-08,Suspended,Verified,High
+SUB00959,9821594582,Andhra Pradesh,Prepaid,2022-09-03,Inactive,Verified,Low
+SUB00960,9844002147,UP East,Postpaid,2023-01-13,Suspended,Verified,High
+SUB00961,9847095573,Bihar,Postpaid,2024-07-17,Inactive,Verified,Low
+SUB00962,9818373492,West Bengal,Postpaid,2023-07-22,Inactive,Verified,Medium
+SUB00963,9833881291,Odisha,Prepaid,2023-06-27,Inactive,Verified,High
+SUB00964,9833950102,Telangana,Postpaid,2024-03-15,Active,Verified,High
+SUB00965,9839311339,Andhra Pradesh,Prepaid,2024-06-02,Inactive,Pending,Low
+SUB00966,9819787090,Karnataka,Postpaid,2022-03-13,Inactive,Verified,Medium
+SUB00967,9897626101,Telangana,Prepaid,2022-11-01,Active,Pending,Medium
+SUB00968,9854269149,West Bengal,Prepaid,2022-11-07,Suspended,Pending,Medium
+SUB00969,9864212251,Karnataka,Prepaid,2024-06-12,Active,Pending,High
+SUB00970,9826267678,Himachal Pradesh,Postpaid,2024-09-14,Inactive,Pending,Medium
+SUB00971,9894862181,Telangana,Prepaid,2022-04-24,Inactive,Pending,Low
+SUB00972,9848917593,Telangana,Prepaid,2024-07-30,Active,Verified,Medium
+SUB00973,9850113698,West Bengal,Prepaid,2023-01-27,Suspended,Pending,Medium
+SUB00974,9894931806,Odisha,Prepaid,2022-06-23,Active,Verified,Low
+SUB00975,9889583788,Gujarat,Postpaid,2022-02-21,Inactive,Verified,High
+SUB00976,9877066471,Jammu & Kashmir,Postpaid,2023-09-23,Active,Verified,Medium
+SUB00977,9855327823,Delhi,Postpaid,2022-04-25,Active,Verified,High
+SUB00978,9871521428,Maharashtra,Prepaid,2024-12-07,Suspended,Verified,Low
+SUB00979,9829003951,Assam,Prepaid,2022-03-17,Inactive,Verified,Low
+SUB00980,9811928065,Punjab,Prepaid,2022-09-25,Inactive,Verified,Medium
+SUB00981,9889328380,Karnataka,Prepaid,2022-12-16,Active,Pending,High
+SUB00982,9818470495,Haryana,Postpaid,2023-03-28,Inactive,Pending,Medium
+SUB00983,9887304983,Jammu & Kashmir,Prepaid,2022-09-05,Inactive,Verified,Low
+SUB00984,9855030548,Karnataka,Prepaid,2022-12-22,Inactive,Verified,Medium
+SUB00985,9859650807,Jammu & Kashmir,Prepaid,2022-12-11,Inactive,Verified,High
+SUB00986,9827900736,Tamil Nadu,Postpaid,2022-03-25,Active,Verified,Medium
+SUB00987,9810852226,Mumbai,Prepaid,2022-06-15,Active,Pending,Medium
+SUB00988,9827031212,Haryana,Prepaid,2024-09-01,Suspended,Pending,High
+SUB00989,9865301908,Gujarat,Prepaid,2024-07-11,Suspended,Verified,High
+SUB00990,9877093782,Andhra Pradesh,Prepaid,2023-01-04,Suspended,Pending,Medium
+SUB00991,9810613380,Jammu & Kashmir,Prepaid,2024-05-07,Active,Verified,High
+SUB00992,9893070162,Madhya Pradesh,Prepaid,2022-07-15,Inactive,Verified,Medium
+SUB00993,9836000523,Tamil Nadu,Prepaid,2022-04-19,Suspended,Pending,Medium
+SUB00994,9831442569,Maharashtra,Prepaid,2022-12-28,Active,Pending,Medium
+SUB00995,9868340640,Rajasthan,Postpaid,2023-03-06,Suspended,Pending,Low
+SUB00996,9817040602,Jammu & Kashmir,Prepaid,2022-08-02,Active,Verified,Medium
+SUB00997,9825577992,Karnataka,Prepaid,2024-11-20,Suspended,Pending,High
+SUB00998,9853751263,Bihar,Prepaid,2025-04-02,Suspended,Pending,Low
+SUB00999,9853772726,Gujarat,Prepaid,2022-08-14,Active,Pending,Low
+SUB01000,9839616854,Karnataka,Postpaid,2024-02-09,Suspended,Pending,Low
